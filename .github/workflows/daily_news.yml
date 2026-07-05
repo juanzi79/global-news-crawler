@@ -1,8 +1,8 @@
-name: Daily Global News Crawler
+name: 每日全球热点爬取
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # UTC 00:00 = 北京时间 08:00
   workflow_dispatch:
 
 jobs:
@@ -11,21 +11,35 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout
+      - name: 检出仓库
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: 设置Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      - name: Run crawler
+      - name: 运行爬虫
         run: python3 crawl_global_news.py
 
-      - name: Commit and push
+      - name: 发送邮件
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.qq.com
+          server_port: 465
+          username: 635503886@qq.com
+          password: ${{ secrets.QQ_SMTP_PASSWORD }}
+          subject: '[${{ github.run_number }}] 全球热点日报'
+          to: 635503886@qq.com
+          from: 635503886@qq.com
+          body: file://report_content.txt
+          content_type: text/html
+          convert: true
+
+      - name: 提交报告
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
           git add *.md *.json
-          git diff --staged --quiet || git commit -m "Daily report $(date +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "每日报告 $(date +%Y-%m-%d)"
           git push
