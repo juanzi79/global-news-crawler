@@ -8,6 +8,12 @@
       "category": "Tech"
     },
     {
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "link": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
       "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
       "link": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
       "source": "Hacker News",
@@ -16,12 +22,6 @@
     {
       "title": "If you&#x27;re a button, you have one job",
       "link": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-      "source": "Hacker News",
-      "category": "Tech"
-    },
-    {
-      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-      "link": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
       "source": "Hacker News",
       "category": "Tech"
     },
@@ -68,26 +68,26 @@
       "category": "Tech"
     },
     {
-      "title": "Artful Cats: Feline-Inspired Art and Artifacts",
-      "link": "https://www.si.edu/spotlight/art-cats",
-      "source": "Hacker News",
-      "category": "Tech"
-    },
-    {
       "title": "Moby Dick Workout",
       "link": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
       "source": "Hacker News",
       "category": "Tech"
     },
     {
-      "title": "Mouse: Precision Editing Tools for AI Coding Agents",
-      "link": "https://hic-ai.com",
+      "title": "Artful Cats: Feline-Inspired Art and Artifacts",
+      "link": "https://www.si.edu/spotlight/art-cats",
       "source": "Hacker News",
       "category": "Tech"
     },
     {
       "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
       "link": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Log Is the Agent",
+      "link": "https://arxiv.org/abs/2605.21997",
       "source": "Hacker News",
       "category": "Tech"
     }
