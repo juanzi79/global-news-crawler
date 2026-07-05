@@ -7,6 +7,8 @@ import time
 import re
 import base64
 import os
+import smtplib
+from email.mime.text import MIMEText
 
 def fetch_url(url, timeout=15):
     req = urllib.request.Request(url, headers={
@@ -164,6 +166,30 @@ def generate_report(news, github_projects):
     report_lines.append('*共采集 ' + str(len(news)) + ' 条新闻，' + str(len(github_projects)) + ' 个GitHub项目*')
     return '\n'.join(report_lines)
 
+def send_email(report, subject_date):
+    """通过SMTP发送邮件"""
+    host = os.environ.get('SMTP_HOST', '')
+    port = int(os.environ.get('SMTP_PORT', '465'))
+    user = os.environ.get('SMTP_USER', '')
+    password = os.environ.get('SMTP_PASS', '')
+    to = os.environ.get('TO_EMAIL', '')
+    if not all([host, user, password, to]):
+        print('  SMTP 配置不完整，跳过邮件发送')
+        return False
+    try:
+        msg = MIMEText(report, 'plain', 'utf-8')
+        msg['Subject'] = subject_date + ' 全球热点日报'
+        msg['From'] = user
+        msg['To'] = to
+        with smtplib.SMTP_SSL(host, port) as server:
+            server.login(user, password)
+            server.send_message(msg)
+        print('  ✅ 邮件已发送到 ' + to)
+        return True
+    except Exception as e:
+        print('  ❌ 邮件发送失败: ' + str(e))
+        return False
+
 def main():
     print('=== 全球热点爬取开始 ===')
     start = time.time()
@@ -195,6 +221,10 @@ def main():
     print('\n=== 完成! ' + str(elapsed) + '秒 ===')
     print('新闻: ' + str(len(news)) + ' 条')
     print('GitHub项目: ' + str(len(github)) + ' 个')
+
+    # 发送邮件
+    print('\n📧 发送邮件...')
+    send_email(report, today)
 
 if __name__ == '__main__':
     main()

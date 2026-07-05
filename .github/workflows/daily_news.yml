@@ -20,6 +20,12 @@ jobs:
           python-version: '3.12'
 
       - name: 运行爬虫
+        env:
+          SMTP_HOST: smtp.163.com
+          SMTP_PORT: '465'
+          SMTP_USER: juanzige@163.com
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          TO_EMAIL: juanzige@163.com
         run: python3 crawl_global_news.py
 
       - name: 提交报告
