@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-05",
+  "news": [
+    {
+      "title": "Shadcn&#x2F;UI now defaults to Base UI instead of Radix",
+      "link": "https://ui.shadcn.com/docs/changelog",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "link": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "If you&#x27;re a button, you have one job",
+      "link": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "link": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Pandoc Lua Filters",
+      "link": "https://pandoc.org/lua-filters.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "link": "https://github.com/openai/codex/issues/30364",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Megawatts by Microwave",
+      "link": "https://computer.rip/2026-07-04-microwave-and-power.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+      "link": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "link": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Leaking YouTube creators&#x27; private videos",
+      "link": "https://javoriuski.com/post/youtube",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Is The Economist Always Wrong?",
+      "link": "https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Artful Cats: Feline-Inspired Art and Artifacts",
+      "link": "https://www.si.edu/spotlight/art-cats",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Moby Dick Workout",
+      "link": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Mouse: Precision Editing Tools for AI Coding Agents",
+      "link": "https://hic-ai.com",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
+      "link": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/openai/codex-plugin-cc",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/JuliusBrussee/caveman",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/alibaba/page-agent",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/usestrix/strix",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - <a href=\"https://meetily.ai\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://meetily.ai</a>) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/Zackriya-Solutions/meetily",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/harvard-edge/cs249r_book",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "rommapp/romm",
+      "description": "A beautiful, powerful, self-hosted rom manager and player.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/rommapp/romm",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/ogulcancelik/herdr",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars": "0",
+      "link": "https://github.com/dotnet/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "agentskills/agentskills",
+      "description": "Specification and documentation for Agent Skills",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/agentskills/agentskills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/immich-app/immich",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "chthollyphile/folia-major",
+      "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/chthollyphile/folia-major",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    }
+  ]
+}
