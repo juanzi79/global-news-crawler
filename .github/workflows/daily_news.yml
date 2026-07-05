@@ -1,0 +1,59 @@
+name: Daily Global News Crawler
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # UTC 00:00 = 北京时间 08:00
+  workflow_dispatch:  # 支持手动触发
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run crawler
+        run: python3 crawl_global_news.py
+
+      - name: Read report content
+        id: report
+        run: |
+          echo "report<<EOF" >> $GITHUB_OUTPUT
+          cat report_content.txt >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Send email via mailtrap/smtp
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.qq.com
+          server_port: 465
+          username: 635503886@qq.com
+          password: ${{ secrets.QQ_SMTP_PASSWORD }}
+          subject: '[$(date +%Y-%m-%d)] 全球热点日报'
+          to: 635503886@qq.com
+          from: 635503886@qq.com
+          body: file://report_content.txt
+          content_type: text/html
+          convert: true
+
+      - name: Commit report
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add *.md *.json
+          git diff --staged --quiet || git commit -m "Daily report $(date +%Y-%m-%d)"
+          git push
+
+      - name: Upload report as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-report-${{ github.run_number }}
+          path: |
+            *.md
+            *.json
+          retention-days: 30
