@@ -2,7 +2,7 @@ name: 每日全球热点爬取
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # UTC 00:00 = 北京时间 08:00
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -21,20 +21,6 @@ jobs:
 
       - name: 运行爬虫
         run: python3 crawl_global_news.py
-
-      - name: 发送邮件
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.qq.com
-          server_port: 465
-          username: 635503886@qq.com
-          password: ${{ secrets.QQ_SMTP_PASSWORD }}
-          subject: '[${{ github.run_number }}] 全球热点日报'
-          to: 635503886@qq.com
-          from: 635503886@qq.com
-          body: file://report_content.txt
-          content_type: text/html
-          convert: true
 
       - name: 提交报告
         run: |
