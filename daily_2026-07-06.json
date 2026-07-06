@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-06",
+  "news": [
+    {
+      "title": "OpenPrinter",
+      "link": "https://www.opentools.studio/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Al Vigier: Canada&#x27;s AI strategy shouldn&#x27;t include secret Palantir bills",
+      "link": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "link": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Has_not_been_viewed_much",
+      "link": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Organic Maps",
+      "link": "https://organicmaps.app/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Homegames. An open-source game platform I&#x27;ve been making for 8 years",
+      "link": "https://homegames.io",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Completing a computer science degree on Coursera",
+      "link": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Connections in Math: the two kinds of random",
+      "link": "https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Private Capture of Public Genius",
+      "link": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "It&#x27;s not about physical vs. digital games, it&#x27;s about ownership",
+      "link": "https://popcar.bearblog.dev/its-about-ownership/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The future of Flipper Zero development",
+      "link": "https://blog.flipper.net/future-of-flipper-zero-development/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Does Code Cleanliness Affect Coding Agents?",
+      "link": "https://arxiv.org/abs/2605.20049",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Composite Video on the NES: Why&#x27;s it so wobbly?",
+      "link": "https://nicole.express/2026/phase-altering-by-line.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Starring the Computer",
+      "link": "https://www.starringthecomputer.com/computers.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - <a href=\"https://meetily.ai\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://meetily.ai</a>) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/Zackriya-Solutions/meetily",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/openai/codex-plugin-cc",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/Leonxlnx/taste-skill",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "description": "337 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/alirezarezvani/claude-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "rommapp/romm",
+      "description": "A beautiful, powerful, self-hosted rom manager and player.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/rommapp/romm",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/ogulcancelik/herdr",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/alibaba/page-agent",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/harvard-edge/cs249r_book",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/usestrix/strix",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "hesreallyhim/awesome-claude-code",
+      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/hesreallyhim/awesome-claude-code",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/coreyhaines31/marketingskills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/JuliusBrussee/caveman",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "CoplayDev/unity-mcp",
+      "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+      "language": "C#",
+      "stars": "0",
+      "link": "https://github.com/CoplayDev/unity-mcp",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/facebook/astryx",
+      "source": "GitHub Trending"
+    }
+  ]
+}
