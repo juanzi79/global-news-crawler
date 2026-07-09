@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-09",
+  "news": [
+    {
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Separating signal from noise in coding evaluations",
+      "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A software engineering interview question I like: computing the median",
+      "link": "https://krisshamloo.com/blog/007",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Chatto is now open source",
+      "link": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "link": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Remote Attestation",
+      "link": "https://www.liamcvw.com/p/remote-attestation",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Unicode&#x27;s transliteration rules are Turing-complete",
+      "link": "https://seriot.ch/computation/uts35/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Mistral&#x27;s Robostral Navigate: a state of the art robotics navigation model",
+      "link": "https://mistral.ai/news/robostral-navigate/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Cloudflare Drop",
+      "link": "https://www.cloudflare.com/drop/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "link": "https://microsoft.github.io/flint-chart/#/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Grok 4.5",
+      "link": "https://x.ai/news/grok-4-5",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Turning a pile of documents into a searchable useable knowledge base",
+      "link": "https://github.com/linuxrebel/DocuBrowser",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo&#x27;s Yamanote line",
+      "link": "https://www.yamanote.fun/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "FAANG Simulator",
+      "link": "https://www.abeyk.com/escape-the-rat-race/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "GPT‑Live",
+      "link": "https://openai.com/index/introducing-gpt-live/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/ruvnet/RuView",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "prisma/prisma",
+      "description": "Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/prisma/prisma",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/argoproj/argo-cd",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars": "0",
+      "link": "https://github.com/iOfficeAI/OfficeCLI",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/alibaba/zvec",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Diolinux/PhotoGIMP",
+      "description": "A Patch for GIMP 3+ for Photoshop Users",
+      "language": "CSS",
+      "stars": "0",
+      "link": "https://github.com/Diolinux/PhotoGIMP",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "huxingyi/autoremesher",
+      "description": "Automatic quad remeshing tool",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/huxingyi/autoremesher",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/bradautomates/claude-video",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/TencentCloud/CubeSandbox",
+      "source": "GitHub Trending"
+    }
+  ]
+}
