@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-10",
+  "news": [
+    {
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "link": "https://github.com/JustVugg/colibri",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "link": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "GPT-5.6",
+      "link": "https://openai.com/index/gpt-5-6/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: 18 Words",
+      "link": "https://18words.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Train sim created by just one person is being called the best ever made",
+      "link": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+      "link": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Hy3",
+      "link": "https://hy.tencent.com/research/hy3",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Triple Dragon Fractal (2020)",
+      "link": "https://paulbourke.net/fractals/tripledragon/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: I built a free app for New Yorkers to save money on groceries",
+      "link": "https://sbnyc.app/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "My Story of 3D Realms &#x2F; Apogee Part I (2020)",
+      "link": "https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "link": "https://github.com/malisper/pgrust",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "No leap second will be introduced at the end of December 2026",
+      "link": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The glass backbone: Why the Army&#x27;s logistics will break in the next war",
+      "link": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A road to Lisp: Why Lisp",
+      "link": "https://scotto.me/blog/2026-07-09-why-lisp/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+      "link": "https://www.context.dev",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/MadsLorentzen/ai-job-search",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "SmartlyDressedGames/U3-SDK",
+      "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+      "language": "C#",
+      "stars": "0",
+      "link": "https://github.com/SmartlyDressedGames/U3-SDK",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "language": "C#",
+      "stars": "0",
+      "link": "https://github.com/VoltAgent/awesome-design-md",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/iOfficeAI/OfficeCLI",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "Jupyter Notebook",
+      "stars": "0",
+      "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/anthropics/claude-cookbooks",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/vxcontrol/pentagi",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: <a href=\"https://discord.gg/jP8KfhDhyN\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://discord.gg/jP8KfhDhyN</a>",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/unclecode/crawl4ai",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+      "description": "An evolving how-to guide for securing a Linux server.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "huxingyi/autoremesher",
+      "description": "Automatic quad remeshing tool",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/huxingyi/autoremesher",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/bradautomates/claude-video",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "prisma/prisma",
+      "description": "Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/prisma/prisma",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "kyutai-labs/pocket-tts",
+      "description": "A TTS that fits in your CPU (and pocket)",
+      "language": "N/A",
+      "stars": "0",
+      "link": "https://github.com/kyutai-labs/pocket-tts",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "N/A",
+      "stars": "0",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "source": "GitHub Trending"
+    }
+  ]
+}
