@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-11",
+  "news": [
+    {
+      "title": "Einstein&#x27;s relativity rules chemical bonds in heavy elements, new research shows",
+      "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "link": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Count Binface, Nigel Farage&#x27;s space-warrior foe",
+      "link": "https://www.economist.com/the-world-in-brief/2026/07/11/b240d63f-2768-43dd-89b6-2bdceb6df745",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "FreeCAD in the Browser",
+      "link": "https://magik.net/freecad/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The tech of &#x27;Terminator 2&#x27; – an oral history (2017)",
+      "link": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Combustion engine web-based simulator",
+      "link": "https://combustionlab.net",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "New York City to to ban deceptive subscription practices",
+      "link": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+      "link": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Preemption is GC for memory reordering (2019)",
+      "link": "https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
+      "link": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Good Tools Are Invisible",
+      "link": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Moss (YC F25) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The iconic blue IKEA FRAKTA bag comes with a free lifetime warranty",
+      "link": "https://ikeamuseum.com/en/explore/the-story-of-ikea/beloved-bag/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/oven-sh/bun",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/abseil/abseil-cpp",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "jbeder/yaml-cpp",
+      "description": "A YAML parser and emitter in C++",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/jbeder/yaml-cpp",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/microsoft/TypeScript",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/catchorg/Catch2",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "chriskohlhoff/asio",
+      "description": "Asio C++ Library",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/chriskohlhoff/asio",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/davila7/claude-code-templates",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "zeux/meshoptimizer",
+      "description": "Mesh optimization library that makes meshes smaller and faster to render",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/zeux/meshoptimizer",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/tailscale/tailscale",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/google-labs-code/stitch-skills",
+      "source": "GitHub Trending"
+    }
+  ]
+}
