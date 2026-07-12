@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-12",
+  "news": [
+    {
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "link": "https://www.iroh.computer/blog/mesh-llm",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "link": "https://antjs.org",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "link": "https://github.com/Wren6991/RISCBoy",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A dock that wakes up reliably",
+      "link": "https://fabiensanglard.net/tb4/index.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The fine print that follows you out the door: non-compete clauses are spreading",
+      "link": "https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
+      "link": "https://arxiv.org/abs/2607.07267",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "We scaled PgBouncer to 4x throughput",
+      "link": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "link": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Prefer strict tables in SQLite",
+      "link": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "link": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Doctors die. It&#x27;s not like the rest of us, but it should be (2016)",
+      "link": "https://archive.cancerworld.net/featured/how-doctors-die/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
+      "link": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Firefox 12.58% for Desktop Browser Market Share in North America June 2026",
+      "link": "https://gs.statcounter.com/browser-market-share/desktop/north-america",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
+      "link": "https://nagylukas.github.io/orbit.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/catchorg/Catch2",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/abseil/abseil-cpp",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/davila7/claude-code-templates",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/google-labs-code/stitch-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/hashicorp/terraform",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "zeux/meshoptimizer",
+      "description": "Mesh optimization library that makes meshes smaller and faster to render",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/zeux/meshoptimizer",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/openai/plugins",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "chriskohlhoff/asio",
+      "description": "Asio C++ Library",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/chriskohlhoff/asio",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/oven-sh/bun",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "actions/checkout",
+      "description": "Action for checking out a repo",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/actions/checkout",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/home-assistant/core",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "stars": "0",
+      "link": "https://github.com/microsoft/PowerToys",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/cypress-io/cypress",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "vercel/next.js",
+      "description": "The React Framework",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/vercel/next.js",
+      "source": "GitHub Trending"
+    }
+  ]
+}
