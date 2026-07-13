@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-13",
+  "news": [
+    {
+      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "link": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "MacKenzie Scott&#x27;s Giving, in Quality-Adjusted Life Years (QALYs)",
+      "link": "https://maxghenis.com/mackenzie-scott-qaly/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "link": "https://shellzine.net/cyberpunk-comics/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Tiny Emulators",
+      "link": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Designing and assembling my first PCB",
+      "link": "https://vilkeliskis.com/b/2026/0711.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "So you want to learn physics (second edition, 2021)",
+      "link": "https://www.susanrigetti.com/physics",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Billion Dollar PDFs",
+      "link": "https://billiondollarpdf.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Ask HN: What Are You Working On? (July 2026)",
+      "link": "https://news.ycombinator.com/item?id=48884984",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Old and new apps, via modern coding agents",
+      "link": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+      "link": "https://kode.diy",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How we can reduce traffic congestion",
+      "link": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A Peek Inside Jim Henson&#x27;s Creature Shop, Where Whimsical Puppets Are Designed",
+      "link": "https://www.smithsonianmag.com/travel/a-peek-inside-jim-hensons-creature-shop-where-sesame-street-characters-and-other-whimsical-puppets-are-designed-180989051/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "LARP – Revenue infrastructure for serious founders",
+      "link": "https://www.larp.website/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/HKUDS/Vibe-Trading",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "PrefectHQ/prefect",
+      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/PrefectHQ/prefect",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": "0",
+      "link": "https://github.com/anthropics/claude-cookbooks",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/home-assistant/core",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ColeMurray/background-agents",
+      "description": "An open-source background agents coding system",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/ColeMurray/background-agents",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "k1tbyte/Wand-Enhancer",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "language": "C#",
+      "stars": "0",
+      "link": "https://github.com/k1tbyte/Wand-Enhancer",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "description": "An AI Hedge Fund Team",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/pingdotgg/t3code",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/virattt/ai-hedge-fund",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "chen08209/FlClash",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Dart",
+      "stars": "0",
+      "link": "https://github.com/chen08209/FlClash",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "description": "An experimental PlayStation 5 emulator project.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/davila7/claude-code-templates",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "par274/sharpemu",
+      "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "language": "C#",
+      "stars": "0",
+      "link": "https://github.com/par274/sharpemu",
+      "source": "GitHub Trending"
+    }
+  ]
+}
