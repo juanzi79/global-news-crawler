@@ -1,0 +1,177 @@
+{
+  "date": "2026-07-14",
+  "news": [
+    {
+      "title": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
+      "link": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Building and shipping Mac and iOS apps without opening Xcode",
+      "link": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple&#x27;s new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+      "link": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "An Englishwoman who sketched India before photography took hold",
+      "link": "https://www.bbc.com/news/articles/cm2drrv6q54o",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "N+1",
+      "link": "https://www.woman-of-letters.com/p/n1",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Git history command deserves more attention",
+      "link": "https://lalitm.com/post/git-history/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The art and engineering of Sega CD Silpheed",
+      "link": "https://fabiensanglard.net/silpheed/index.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The infinite scroll may become endangered if controversial Calif. law passes",
+      "link": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
+      "link": "https://cakehonolulu.github.io/linux-on-32x/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+      "link": "https://github.com/jbwinters/jacquard-lang",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: YouTube Guitar Tab Parser",
+      "link": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Mawlynnong, India, transformed by tourism, bans visitors on Sundays",
+      "link": "https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "TFTP Honey Pot Results",
+      "link": "https://bruceediger.com/posts/tftp-honeypot-results/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
+      "link": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Telegram&#x27;s t.me domain has been suspended",
+      "link": "https://www.whois.com/whois/t.me",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/OpenCut-app/OpenCut",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/HKUDS/Vibe-Trading",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/moeru-ai/airi",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": "0",
+      "link": "https://github.com/Nutlope/hallmark",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "language": "PowerShell",
+      "stars": "0",
+      "link": "https://github.com/Raphire/Win11Debloat",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Graphify-Labs/graphify",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "language": "HTML",
+      "stars": "0",
+      "link": "https://github.com/hasaneyldrm/exercises-dataset",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/github/spec-kit",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/coreyhaines31/marketingskills",
+      "source": "GitHub Trending"
+    }
+  ]
+}
