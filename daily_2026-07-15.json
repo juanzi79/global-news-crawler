@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-15",
+  "news": [
+    {
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "link": "https://prismml.com/news/bonsai-27b",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Dependabot version updates introduce default package cooldown",
+      "link": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+      "link": "https://vpd.ca/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "link": "https://www.bis.org/publ/bisbull120.pdf",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Tower Keeps Rising",
+      "link": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "link": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How I use HTMX with Go",
+      "link": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Your &#x27;app&#x27; could have been a webpage (so I fixed it for you)",
+      "link": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+      "link": "https://www.benjamin-bai.com/projects/lemario",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
+      "link": "https://www.nature.com/articles/d41586-026-02170-8",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Unlocking the PSP&#x27;s Dual Core Setup",
+      "link": "https://wololo.net/2026/06/16/unlocking-the-psps-dual-core-setup/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How to stop Claude from saying load-bearing",
+      "link": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The largest available Minecraft world, totalling 15 TB",
+      "link": "https://2b2t.place/1million",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Estranged Worlds of J. G. Ballard",
+      "link": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "C++20 Improved the For-Loop Syntax",
+      "link": "https://lzon.ca/posts/tips/cpp-for-range-init/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/OpenCut-app/OpenCut",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/virattt/ai-hedge-fund",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": "0",
+      "link": "https://github.com/Nutlope/hallmark",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/HKUDS/Vibe-Trading",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "language": "PowerShell",
+      "stars": "0",
+      "link": "https://github.com/Raphire/Win11Debloat",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "language": "HTML",
+      "stars": "0",
+      "link": "https://github.com/hasaneyldrm/exercises-dataset",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "penpot/penpot",
+      "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+      "language": "Clojure",
+      "stars": "0",
+      "link": "https://github.com/penpot/penpot",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "AIEraDev/Clypra",
+      "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/AIEraDev/Clypra",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "par274/sharpemu",
+      "description": "An experimental PlayStation 5 emulator project.",
+      "language": "C#",
+      "stars": "0",
+      "link": "https://github.com/par274/sharpemu",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "chenyme/grok2api",
+      "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/chenyme/grok2api",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Graphify-Labs/graphify",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "source": "GitHub Trending"
+    }
+  ]
+}
