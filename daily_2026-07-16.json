@@ -1,0 +1,201 @@
+{
+  "date": "2026-07-16",
+  "news": [
+    {
+      "title": "Inkling: Our Open-Weights Model",
+      "link": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "SQLite should have (Rust-style) editions",
+      "link": "https://mort.coffee/home/sqlite-editions/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Grok Build is open source",
+      "link": "https://github.com/xai-org/grok-build",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Metal-Organic Frameworks, Chemistry&#x27;s New Miracle Materials",
+      "link": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "LLM Networking with MikroTik",
+      "link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+      "link": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Nul Characters in Strings in SQLite",
+      "link": "https://sqlite.org/nulinstr.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Running Gemma 4 26B at 5 tokens&#x2F;sec on a 13-year-old Xeon with no GPU",
+      "link": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Book prizes don&#x27;t work how you think",
+      "link": "https://rebeccamakkai.substack.com/p/book-prizes-dont-work-how-you-think",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Duskers, the scary command line game, is getting a sequel",
+      "link": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: One More Letter",
+      "link": "https://playonemoreletter.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Anti-Mac User Interface (1996)",
+      "link": "https://www.nngroup.com/articles/anti-mac-interface/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+      "link": "https://brainless.swerdlow.dev",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Command Line Interface Guidelines",
+      "link": "https://clig.dev/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/OpenCut-app/OpenCut",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": "0",
+      "link": "https://github.com/Nutlope/hallmark",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/moeru-ai/airi",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/HKUDS/Vibe-Trading",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "description": "A coding agent for low-cost models",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/openinterpreter/openinterpreter",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. <a href=\"https://deeptutor.info/\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://deeptutor.info/</a>.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/HKUDS/DeepTutor",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/coreyhaines31/marketingskills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/YimMenu/YimMenuV2",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "language": "HTML",
+      "stars": "0",
+      "link": "https://github.com/hasaneyldrm/exercises-dataset",
+      "source": "GitHub Trending"
+    }
+  ]
+}
