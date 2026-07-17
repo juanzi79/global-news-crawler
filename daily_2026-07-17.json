@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-17",
+  "news": [
+    {
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "link": "https://www.kimi.com/blog/kimi-k3",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Microsoft Comic Chat is now open source",
+      "link": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Decoy Font",
+      "link": "https://www.mixfont.com/experiments/decoy-font",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Little Book of Reinforcement Learning",
+      "link": "https://github.com/alxndrTL/little-book-rl/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "NotebookLM is now Gemini Notebook",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Mathematics of Data Science",
+      "link": "https://arxiv.org/abs/2607.11938",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+      "link": "https://arxiv.org/abs/2607.12395",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
+      "link": "https://www.science.org/doi/10.1126/science.aea9708",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "&#x27;Likweli&#x27;: A new monkey species discovered in the Congo Basin",
+      "link": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "link": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Mojibake – a low-level Unicode library written in C",
+      "link": "https://mojibake.zaerl.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "OnePlus halts operations in USA and Europe",
+      "link": "https://community.oneplus.com/thread/2170715118587871237",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/apache/ossie",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": "0",
+      "link": "https://github.com/Nutlope/hallmark",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/OpenCut-app/OpenCut",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/PostHog/posthog",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "description": "A coding agent for open models like Kimi K3",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/openinterpreter/openinterpreter",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "language": "HTML",
+      "stars": "0",
+      "link": "https://github.com/hasaneyldrm/exercises-dataset",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "lobehub/lobehub",
+      "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/lobehub/lobehub",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/YimMenu/YimMenuV2",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. <a href=\"https://deeptutor.info/\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://deeptutor.info/</a>.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/HKUDS/DeepTutor",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars": "0",
+      "link": "https://github.com/github/copilot-sdk",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ibelick/ui-skills",
+      "description": "Skills for Design Engineers",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/ibelick/ui-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Graphify-Labs/graphify",
+      "source": "GitHub Trending"
+    }
+  ]
+}
