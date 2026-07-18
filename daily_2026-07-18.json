@@ -1,0 +1,209 @@
+{
+  "date": "2026-07-18",
+  "news": [
+    {
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "link": "https://news.ycombinator.com/item?id=48945241",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Zilog Z80 has turned 50",
+      "link": "https://goliath32.com/blog/z80.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Thanks HN for 15 years of support and helping me find my life&#x27;s work",
+      "link": "https://news.ycombinator.com/item?id=48949551",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
+      "link": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "DrDroid (YC W23) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "link": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Learning a few things about running SQLite",
+      "link": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Texas wins court order to suspend domain name for violating age-verification law",
+      "link": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
+      "link": "https://prathosh.in/vagdhenu/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "link": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Static search trees: 40x faster than binary search (2024)",
+      "link": "https://curiouscoding.nl/posts/static-search-tree/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Topcoat: The full full-stack framework for Rust",
+      "link": "https://github.com/tokio-rs/topcoat",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Open Book Touch: open-source e-reader",
+      "link": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Painting the sides of railroad rails white to reduce derailment",
+      "link": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": "0",
+      "link": "https://github.com/codecrafters-io/build-your-own-x",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/PostHog/posthog",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": "0",
+      "link": "https://github.com/Nutlope/hallmark",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars": "0",
+      "link": "https://github.com/github/copilot-sdk",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/cwc-workshops",
+      "description": "Bonsai Demo",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/anthropics/cwc-workshops",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "PrismML-Eng/Bonsai-demo",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "protocolbuffers/protobuf",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/protocolbuffers/protobuf",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/tirth8205/code-review-graph",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "docusealco/docuseal",
+      "description": "A coding agent for open models like Kimi K3",
+      "language": "Ruby",
+      "stars": "0",
+      "link": "https://github.com/docusealco/docuseal",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/openinterpreter/openinterpreter",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. <a href=\"https://deeptutor.info/\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://deeptutor.info/</a>.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/RyanCodrai/turbovec",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "description": "The open-source CapCut alternative",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/HKUDS/DeepTutor",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "description": "N/A",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/OpenCut-app/OpenCut",
+      "source": "GitHub Trending"
+    }
+  ]
+}
