@@ -1,0 +1,185 @@
+{
+  "date": "2026-07-19",
+  "news": [
+    {
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "link": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Classic Amiga titles, free to download",
+      "link": "https://amigafreeware.downer.tech/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Transcribe.cpp",
+      "link": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "If You Build It, They Will Come",
+      "link": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Mayor Mamdani Says Landlords Can&#x27;t Use AI Images to Advertise",
+      "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Judge a book by its first pages",
+      "link": "https://uncovered.ink",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
+      "link": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "I&#x27;m Making Strandfall, a Solarpunk Orienteering Larp",
+      "link": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01&#x2F;day",
+      "link": "https://www.neatnik.net/hardcore-indieweb",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Gleam Is Now on Tangled",
+      "link": "https://tangled.org/gleam.run/gleam",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Is this the end of the once-mighty GoPro?",
+      "link": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Codex Resets",
+      "link": "https://codex-resets.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does &#x2F;goal help?",
+      "link": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Co-evolution of self-replication and function in a digital primordial soup",
+      "link": "https://arxiv.org/abs/2607.09211",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Robbyant/lingbot-map",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/apache/ossie",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/PostHog/posthog",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ibelick/ui-skills",
+      "description": "Skills for Design Engineers",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/ibelick/ui-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/tirth8205/code-review-graph",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "elder-plinius/G0DM0D3",
+      "description": "LIBERATED AI CHAT",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/elder-plinius/G0DM0D3",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": "0",
+      "link": "https://github.com/lyogavin/airllm",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/KnockOutEZ/wigolo",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": "0",
+      "link": "https://github.com/codecrafters-io/build-your-own-x",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/MoonshotAI/kimi-cli",
+      "source": "GitHub Trending"
+    }
+  ]
+}
