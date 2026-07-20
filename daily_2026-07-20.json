@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-20",
+  "news": [
+    {
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "link": "https://news.ycombinator.com/item?id=48968606",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "DeKalb deputy charged with Flock camera misuse; more Georgia officers fired",
+      "link": "https://www.ajc.com/news/2026/07/3-more-georgia-police-officers-fired-over-alleged-flock-camera-misuse/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Ask HN: What are your favorite blogs not about AI?",
+      "link": "https://news.ycombinator.com/item?id=48972858",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Zen of Parallel Programming",
+      "link": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+      "link": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Talk: The Art of Braiding Algorithms",
+      "link": "https://pgadey.ca/notes/talk-relatorium-2026/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Claude Code uses Bun written in Rust now",
+      "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+      "link": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "link": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Blender 5.2 LTS",
+      "link": "https://www.blender.org/download/releases/5-2/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "link": "https://github.com/openai/codex/pull/33972/files",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "link": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AI advice made people less accurate but more confident – sudy",
+      "link": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Qwen 3.8",
+      "link": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/tirth8205/code-review-graph",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/kvcache-ai/ktransformers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/jamiepine/voicebox",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/KnockOutEZ/wigolo",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "andrewrabert/jellium-desktop",
+      "description": "An unofficial desktop client for Jellyfin",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/andrewrabert/jellium-desktop",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars": "0",
+      "link": "https://github.com/github/copilot-sdk",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/PostHog/posthog",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "microsoft/terminal",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/microsoft/terminal",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/AstrBotDevs/AstrBot",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/1jehuang/jcode",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars": "0",
+      "link": "https://github.com/trycua/cua",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/MoonshotAI/kimi-cli",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Batchfile",
+      "stars": "0",
+      "link": "https://github.com/Flowseal/zapret-discord-youtube",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Markdown",
+      "stars": "0",
+      "link": "https://github.com/codecrafters-io/build-your-own-x",
+      "source": "GitHub Trending"
+    }
+  ]
+}
