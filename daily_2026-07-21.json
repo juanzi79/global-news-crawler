@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-21",
+  "news": [
+    {
+      "title": "Who&#x27;s afraid of Chinese models?",
+      "link": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Kimi Work",
+      "link": "https://www.kimi.com/products/kimi-work",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Human mathematicians are being outcounterexampled",
+      "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "link": "https://jelly-ui.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Hacker wipes Romania&#x27;s land registry database",
+      "link": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "link": "https://blaizzy.github.io/nativ/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Psychology of Software Teams",
+      "link": "https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+      "link": "https://vincentwoo.com/3d/grace_cathedral/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Airport Simulator",
+      "link": "https://airport.apunen.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Agent swarms and the new model economics",
+      "link": "https://cursor.com/blog/agent-swarm-model-economics",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "China’s open-weights AI strategy is winning",
+      "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+      "link": "https://news.ycombinator.com/item?id=48981136",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "LEDs’ potential to save our night skies",
+      "link": "https://spectrum.ieee.org/led-light-pollution",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "I wrote an bash enumerator because I was sick of xargs",
+      "link": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "My two year old taught me constraint solving",
+      "link": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/tirth8205/code-review-graph",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "description": "The most intelligent agent harness for code",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/1jehuang/jcode",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/msitarzewski/agency-agents",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/kvcache-ai/ktransformers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/jamiepine/voicebox",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "topoteretes/cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/topoteretes/cognee",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Robbyant/lingbot-map",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/every-app/open-seo",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/MoonshotAI/kimi-cli",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/AstrBotDevs/AstrBot",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "PrefectHQ/fastmcp",
+      "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/PrefectHQ/fastmcp",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/KnockOutEZ/wigolo",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "tokio-rs/topcoat",
+      "description": "A batteries-included framework for building web apps",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/tokio-rs/topcoat",
+      "source": "GitHub Trending"
+    }
+  ]
+}
