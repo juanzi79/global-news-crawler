@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-22",
+  "news": [
+    {
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+      "link": "https://fireworks.ai/blog/kimik3-fable",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "FreeInk: Open ecosystem for e-readers",
+      "link": "https://freeink.org/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A digestion of the Jacobian conjecture counterexample",
+      "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Advertise in ChatGPT",
+      "link": "https://ads.openai.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "&quot;Drawing&quot; the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
+      "link": "https://e360.yale.edu/digest/benin-coral-reef",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Recreating the math behind the first stealth aircraft",
+      "link": "https://www.pramit.gg/post/remaking-echo-1-stealth-physics",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple defeats liability for not scanning iCloud for CSAM",
+      "link": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+      "link": "https://ai.google.dev/gemini-api/docs/latest-model",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Birth of Prolog (1996)",
+      "link": "https://dl.acm.org/doi/10.1145/234286.1057820",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "&#x27;VPNs are lawful technical tools,&#x27; says EU Court in landmark copyright ruling",
+      "link": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/koala73/worldmonitor",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/bojieli/ai-agent-book",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/tirth8205/code-review-graph",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/earthtojake/text-to-cad",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "description": "The most intelligent agent harness for code",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/1jehuang/jcode",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/oblien/openship",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/AstrBotDevs/AstrBot",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/every-app/open-seo",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/tradesdontlie/tradingview-mcp",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "AlexsJones/llmfit",
+      "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/AlexsJones/llmfit",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "Assembly",
+      "stars": "0",
+      "link": "https://github.com/hyprwm/Hyprland",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/chrislgarry/Apollo-11",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/DioxusLabs/dioxus",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "langchain-ai/open_deep_research",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/langchain-ai/open_deep_research",
+      "source": "GitHub Trending"
+    }
+  ]
+}
