@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-23",
+  "news": [
+    {
+      "title": "Terrence Tao&#x27;s ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "link": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "link": "https://github.com/marcelroed/gigatoken/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Medici family mystery may be solved after more than 400 years",
+      "link": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "link": "https://bento.page/slides/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Are AI Labs Pelicanmaxxing?",
+      "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Everyone Should Know SIMD",
+      "link": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Malleable Computing, Emacs, and You",
+      "link": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it&#x27;s wrong",
+      "link": "https://github.com/cactus-compute/cactus-hybrid",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "John C. Dvorak has died",
+      "link": "https://twitter.com/na_announce/status/2079952538040672302",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Safari Technology Preview 248 Released",
+      "link": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Fairphone 6 wide camera experimental Linux support",
+      "link": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Nobody knows what a used GPU cluster is worth",
+      "link": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Making",
+      "link": "https://beej.us/blog/data/ai-making/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Clarity didn&#x27;t work, trying mysterianism",
+      "link": "https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/koala73/worldmonitor",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/ruvnet/RuView",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "schollz/croc",
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/schollz/croc",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/likec4/likec4",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": "0",
+      "link": "https://github.com/chrislgarry/Apollo-11",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/jamiepine/voicebox",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/shiyu-coder/Kronos",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/oblien/openship",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/agegr/pi-web",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/tirth8205/code-review-graph",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "dreamhunter2333/cloudflare_temp_email",
+      "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+      "source": "GitHub Trending"
+    }
+  ]
+}
