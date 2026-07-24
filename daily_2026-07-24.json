@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-24",
+  "news": [
+    {
+      "title": "98.css",
+      "link": "https://jdan.github.io/98.css/#status-bar",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Writing by hand is good for your brain",
+      "link": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Visual 6502",
+      "link": "http://visual6502.org/JSSim/index.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Echo – Fable-level results at 1&#x2F;3 the cost using open-weight models",
+      "link": "https://news.ycombinator.com/item?id=49026810",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A Taxonomy of Omnicidal Futures Involving Artificial Intelligence",
+      "link": "https://arxiv.org/abs/2507.09369",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Beam Engine",
+      "link": "https://glinscott.github.io/beam-engine/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "What else do people draw on gradient.horse?",
+      "link": "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "What happened to TheNumbers.com",
+      "link": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A24 Is Copyright Striking Backrooms Artwork Older Than the Movie",
+      "link": "https://www.thegamer.com/the-backrooms-a24-copyright-strike-artwork/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Building on ATProto",
+      "link": "https://lukekanies.com/writing/building-on-atproto/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Software rendering in 500 lines of bare C++",
+      "link": "https://haqr.eu/tinyrenderer/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "link": "https://learnopengl.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+      "link": "https://github.com/palmier-io/palmier-pro",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/block/buzz",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/koala73/worldmonitor",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/shiyu-coder/Kronos",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/Pumpkin-MC/Pumpkin",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "description": "The best browser for both you and your AI agents work in parallel.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/citrolabs/ego-lite",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": "0",
+      "link": "https://github.com/chrislgarry/Apollo-11",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/earthtojake/text-to-cad",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/agegr/pi-web",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/ruvnet/RuView",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/likec4/likec4",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/Automattic/harper",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend &amp; API",
+      "language": "C#",
+      "stars": "0",
+      "link": "https://github.com/jellyfin/jellyfin",
+      "source": "GitHub Trending"
+    }
+  ]
+}
