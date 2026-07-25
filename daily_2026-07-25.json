@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-25",
+  "news": [
+    {
+      "title": "Claude Opus 5",
+      "link": "https://www.anthropic.com/news/claude-opus-5",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Postgres LISTEN&#x2F;NOTIFY actually scales",
+      "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "link": "https://artificialanalysis.ai/models",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+      "link": "https://globaloilnetwork.staffinganalytics.io/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "link": "https://hhh.hn/hanwha-github-token/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "India&#x27;s first privately-developed rocket reaches orbit on debut launch",
+      "link": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+      "link": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Designing an Ethernet Switch ASIC",
+      "link": "https://essenceia.github.io/projects/ethernet_switch_asic/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "If coding has been solved, why does software keep getting worse?",
+      "link": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "An old patent inspired the new &quot;Y-zipper&quot;, a three-sided fastener",
+      "link": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AIs don&#x27;t do what you want. This is bad",
+      "link": "https://rewardhacking.org",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Fil-C: Garbage In, Memory Safety Out [video]",
+      "link": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Kimi K3 exploited the latest Redis server",
+      "link": "https://twitter.com/fried_rice/status/2080059356322918777",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Half-Life 2 running natively on HaikuOS",
+      "link": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/block/buzz",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/koala73/worldmonitor",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/Pumpkin-MC/Pumpkin",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/shiyu-coder/Kronos",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/Automattic/harper",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/likec4/likec4",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/citrolabs/ego-lite",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/yorukot/superfile",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/ruvnet/RuView",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/CoreBunch/Instatic",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": "0",
+      "link": "https://github.com/chrislgarry/Apollo-11",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars": "0",
+      "link": "https://github.com/Lordog/dive-into-llms",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending"
+    }
+  ]
+}
