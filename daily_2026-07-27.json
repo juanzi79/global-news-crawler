@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-27",
+  "news": [
+    {
+      "title": "PGSimCity - How PostgreSQL Works",
+      "link": "https://nikolays.github.io/PGSimCity/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "link": "https://beyondloom.com/decker/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "French firefighters face &#x27;pyrocumulonimbus&#x27; for first time",
+      "link": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "We have proof automation now",
+      "link": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Teaching Kids Forth",
+      "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Design is compromise",
+      "link": "https://stephango.com/design-is-compromise",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Introduction to Data-Oriented Design [pdf]",
+      "link": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Simulate cassette tape audio profiles using FFmpeg",
+      "link": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+      "link": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
+      "link": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
+      "link": "https://github.com/gmrandazzo/CheapSecurity",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
+      "link": "https://portzero.net/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How to Block Some of the Bots",
+      "link": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How to Write English Prose",
+      "link": "https://thelampmagazine.com/blog/how-to-write-english-prose",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "permissionlesstech/bitchat",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "language": "Swift",
+      "stars": "0",
+      "link": "https://github.com/permissionlesstech/bitchat",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/citrolabs/ego-lite",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/block/buzz",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/pingdotgg/t3code",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/CoreBunch/Instatic",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "yorukot/superfile",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/yorukot/superfile",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "nodejs/node",
+      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/nodejs/node",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "OtterMind/Chat2DB",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Java",
+      "stars": "0",
+      "link": "https://github.com/OtterMind/Chat2DB",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/pbakaus/impeccable",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/shiyu-coder/Kronos",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/andrewyng/aisuite",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Jupyter Notebook",
+      "stars": "0",
+      "link": "https://github.com/anthropics/claude-cookbooks",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Pumpkin-MC/Pumpkin",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/Pumpkin-MC/Pumpkin",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "permissionlesstech/bitchat-android",
+      "description": "Jenkins automation server",
+      "language": "Kotlin",
+      "stars": "0",
+      "link": "https://github.com/permissionlesstech/bitchat-android",
+      "source": "GitHub Trending"
+    }
+  ]
+}
