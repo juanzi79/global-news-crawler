@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-28",
+  "news": [
+    {
+      "title": "Our position on open-weights models",
+      "link": "https://www.anthropic.com/news/position-open-weights-models",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "DConf 2026 in London",
+      "link": "https://dconf.org/2026/index.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Watching Go&#x27;s new garbage collector move through the heap",
+      "link": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Astronauts describe persistent &#x27;observer&#x27; sensation after 6 month missions",
+      "link": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "C&#x2F;C++ projects packaged for Zig",
+      "link": "https://github.com/allyourcodebase",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+      "link": "https://www.rise-reforming.com",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "link": "https://arxiv.org/abs/2607.05283",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Self-contained highly-portable Python distributions",
+      "link": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+      "link": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A missing underscore sent innocent man to prison for 18 months",
+      "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS",
+      "link": "https://www.dowe.dev",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Securing Services with Rootless Containers",
+      "link": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+      "link": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Hard Road – A beautiful procedural post-apocalyptic game",
+      "link": "https://hardroad.xyz/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "permissionlesstech/bitchat",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "language": "Swift",
+      "stars": "0",
+      "link": "https://github.com/permissionlesstech/bitchat",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "amnezia-vpn/amnezia-client",
+      "description": "Amnezia VPN Client (Desktop+Mobile)",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/amnezia-vpn/amnezia-client",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/moeru-ai/airi",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/opengeos/GeoLibre",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/yorukot/superfile",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/NanmiCoder/MediaCrawler",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/pbakaus/impeccable",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/shiyu-coder/Kronos",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "jenkinsci/jenkins",
+      "description": "Jenkins automation server",
+      "language": "Java",
+      "stars": "0",
+      "link": "https://github.com/jenkinsci/jenkins",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/bradautomates/claude-video",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "vudovn/ag-kit",
+      "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/vudovn/ag-kit",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "apache/cassandra",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Java",
+      "stars": "0",
+      "link": "https://github.com/apache/cassandra",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ocornut/imgui",
+      "description": "N/A",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/ocornut/imgui",
+      "source": "GitHub Trending"
+    }
+  ]
+}
