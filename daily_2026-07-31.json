@@ -1,0 +1,209 @@
+{
+  "date": "2026-07-31",
+  "news": [
+    {
+      "title": "The AI Aesthetic",
+      "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Read this before you buy that TV streaming stick",
+      "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "link": "https://geospatialml.com/posts/reviewing-ai-slop/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "link": "https://github.com/AminBlg/SimpleEnglish",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Stacked PRs are now live on GitHub",
+      "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Destroying a Community with a Gigantic &quot;Clogged Vacuum Cleaner&quot;",
+      "link": "https://gizmodo.com/this-viral-data-center-sounds-like-satans-buzzsaw-2000791122",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The American Grilled Cheese Sandwich Essay (2024)",
+      "link": "https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+      "link": "https://rune.build/blog/rune-1-1-release",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "CodePen 2.0",
+      "link": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "UEFA and its national associations will not participate in FIFA competitions",
+      "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Physicists Solve a Muon Mystery. Now, Old Results Don&#x27;t Add Up",
+      "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Google will expand age checks on Android worldwide till the end of the year",
+      "link": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
+      "link": "https://github.com/MemoireMorte/Memo-1",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/huggingface/speech-to-speech",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "stars": "0",
+      "link": "https://github.com/microsoft/AI-For-Beginners",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/different-ai/openwork",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "WhiskeySockets/Baileys",
+      "description": "Socket-based TS/JavaScript API for WhatsApp Web",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/WhiskeySockets/Baileys",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/pascalorg/editor",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "language": "C#",
+      "stars": "0",
+      "link": "https://github.com/dotnet/aspnetcore",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "stars": "0",
+      "link": "https://github.com/microsoft/PowerToys",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ansible/ansible",
+      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. <a href=\"https://docs.ansible.com\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://docs.ansible.com</a>.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/ansible/ansible",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "jenkinsci/jenkins",
+      "description": "Jenkins automation server",
+      "language": "Java",
+      "stars": "0",
+      "link": "https://github.com/jenkinsci/jenkins",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "agavra/tuicr",
+      "description": "a code review TUI with vim keybindings",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/agavra/tuicr",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending"
+    }
+  ]
+}
