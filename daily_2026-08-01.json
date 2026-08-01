@@ -1,0 +1,193 @@
+{
+  "date": "2026-08-01",
+  "news": [
+    {
+      "title": "Tailscale didn&#x27;t stop the Hugging Face intrusion",
+      "link": "https://tailscale.com/blog/hugging-face-intrusion",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Elevators",
+      "link": "https://john.fun/elevators",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "qm",
+      "link": "https://github.com/yc-software/qm",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Twenty-five years ago it was cryptography, today it&#x27;s model weights",
+      "link": "https://weeraman.com/because-we-can/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Absurdity of Albert Camus",
+      "link": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+      "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Progressive Web Components",
+      "link": "https://arielsalminen.com/2026/progressive-web-components/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Big Food vs. the People",
+      "link": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+      "link": "https://arxiv.org/abs/2607.28233",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Let&#x27;s make the worst Htmx",
+      "link": "https://zserge.com/posts/worst-htmx-ever/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok&#x2F;s",
+      "link": "https://github.com/sqliteai/waste",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "link": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How JPEG works: Interactively explore JPEG&#x27;s lossy compression methods",
+      "link": "https://cgjennings.ca/articles/jpeg-compression/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A past and future of trade secrets",
+      "link": "https://www.cabinetmagazine.org/issues/70/kofen.php",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Loops (YC W22) Is Hiring a Product Educator",
+      "link": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "stars": "0",
+      "link": "https://github.com/zhaoxuya520/reverse-skill",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/different-ai/openwork",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "stars": "0",
+      "link": "https://github.com/microsoft/AI-For-Beginners",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars": "0",
+      "link": "https://github.com/github/copilot-sdk",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": "0",
+      "link": "https://github.com/chatwoot/chatwoot",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "agavra/tuicr",
+      "description": "a code review TUI with vim keybindings",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/agavra/tuicr",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/usekaneo/kaneo",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "geo-tp/ESP32-Bit-Pirate",
+      "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "deepfakes/faceswap",
+      "description": "Deepfakes Software For All",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/deepfakes/faceswap",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "description": "The most RAM efficient harness",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/1jehuang/jcode",
+      "source": "GitHub Trending"
+    }
+  ]
+}
