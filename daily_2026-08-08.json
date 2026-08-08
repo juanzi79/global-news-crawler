@@ -1,0 +1,217 @@
+{
+  "date": "2026-08-08",
+  "news": [
+    {
+      "title": "DeepSeek V4 Flash 0731",
+      "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "link": "https://genesisopenmodels.anl.gov/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Assembly Hall of Shame",
+      "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Ancient Library – 1,060 Greek&#x2F;Latin texts, click any word to parse it",
+      "link": "https://ancientlibrary.net/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Managing AI Coding Costs at Scale",
+      "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "An all-sky map of half a million supermassive black holes",
+      "link": "https://www.sdss.org/black-hole-mapper-release-20/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Should AI labs be treated like the owners of dangerous animals?",
+      "link": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Guarded Methods in OCaml (2025)",
+      "link": "https://xvw.lol/en/articles/oop-refl.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Water system controllers don&#x27;t belong on the internet, says ex-NSA chief",
+      "link": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Carl&#x27;s Required Reading",
+      "link": "https://carlkolon.com/reading/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Psychological Warfare in Reverse Engineering (2015)",
+      "link": "https://github.com/xoreaxeaxeax/repsych",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "link": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/cloudflare/computer",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/goauthentik/authentik",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/semantica-agi/semantica",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/666ghj/MiroFish",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "chenyme/grok2api",
+      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/chenyme/grok2api",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "jdx/mise",
+      "description": "dev tools, env vars, task runner",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/jdx/mise",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "stars": "0",
+      "link": "https://github.com/google/guava",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "unclebob/swarm-forge",
+      "description": "A simple tool for coordinating several AI agents.",
+      "language": "Clojure",
+      "stars": "0",
+      "link": "https://github.com/unclebob/swarm-forge",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "denoland/celld",
+      "description": "self-hosted, distributed Durable Objects",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/denoland/celld",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "K2SOsint/Legendary_OSINT",
+      "description": "A list of OSINT tools &amp; resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/K2SOsint/Legendary_OSINT",
+      "source": "GitHub Trending"
+    }
+  ]
+}
