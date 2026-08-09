@@ -1,0 +1,193 @@
+{
+  "date": "2026-08-09",
+  "news": [
+    {
+      "title": "My server is a phone now",
+      "link": "https://seg6.space/posts/phone-server/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Fastmail offers EU data region",
+      "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Improving Heuristics for A* Pathfinding",
+      "link": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "_for-sale DNS records",
+      "link": "https://specification.website/spec/foundations/for-sale-dns/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "link": "https://eclipsefan.org/?v=2&amp;t=max&amp;layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&amp;lat=43.4623&amp;lon=-3.8099&amp;opacity=besselian%3A0.2%2Cumbra-live%3A0.2&amp;zoom=6&amp;palier=minute",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Making difficulty curves in games",
+      "link": "http://www.davetech.co.uk/difficultycurves",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Can Intel finally beat ARM on performance per Watt?",
+      "link": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "DDisasm: Reversible (bi-directional) Disassembler",
+      "link": "https://github.com/GrammaTech/ddisasm",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "DeepMind&#x27;s WeatherNext model achieves breakthrough forecasting cyclones",
+      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
+      "link": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Triton: DirectX 11 Driver for QEMU",
+      "link": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Preventing Misfolding by Preventing Folding",
+      "link": "https://www.science.org/content/blog-post/preventing-misfolding-preventing-folding",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Building a local positioning system to track runners using Ultra-Wideband",
+      "link": "https://zeus.ugent.be/blog/25-26/12urenloop-uwb/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "US Military&#x27;s cyber command unit grapples with cluster of deaths by suicide",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": "0",
+      "link": "https://github.com/TapXWorld/ChinaTextbook",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/google/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/goauthentik/authentik",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "stars": "0",
+      "link": "https://github.com/google/guava",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/LadybirdBrowser/ladybird",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "denoland/celld",
+      "description": "self-hosted, distributed Durable Objects",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/denoland/celld",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "litu54/DevOps-Interview-Guide",
+      "description": "DevOps Interview Guide",
+      "language": "Kotlin",
+      "stars": "0",
+      "link": "https://github.com/litu54/DevOps-Interview-Guide",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "N/A",
+      "stars": "0",
+      "link": "https://github.com/bannedbook/fanqiang",
+      "source": "GitHub Trending"
+    }
+  ]
+}
