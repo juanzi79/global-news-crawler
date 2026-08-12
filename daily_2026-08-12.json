@@ -1,0 +1,217 @@
+{
+  "date": "2026-08-12",
+  "news": [
+    {
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
+      "link": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+      "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Compression is prediction",
+      "link": "https://ngrok.com/blog/compression-is-prediction",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Mojo 1.0",
+      "link": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+      "link": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "link": "https://stolen-thoughts.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "OpenAI’s head of ethics leaves less than a year after joining",
+      "link": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Making holograms with a pen plotter",
+      "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+      "link": "https://photosynthesis.camera",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Go is an ideal language for AI-assisted software engineering",
+      "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Grok Bot",
+      "link": "https://x.ai/bot",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "US hires over 2k video gamers as air traffic controllers",
+      "link": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+      "link": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How we used to get jobs: A newspaper classifieds story",
+      "link": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Tamron Lens Utility Alternative on Linux",
+      "link": "https://github.com/yikerman/tamron-lens-control",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/msitarzewski/agency-agents",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/semantica-agi/semantica",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/nvm-sh/nvm",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/vitali87/code-graph-rag",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/3b1b/manim",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. <a href=\"https://deeptutor.info/\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://deeptutor.info/</a>.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/HKUDS/DeepTutor",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/stablyai/orca",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/paperclipai/paperclip",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/huggingface/transformers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "harveyai/harvey-labs",
+      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/harveyai/harvey-labs",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "jaywcjlove/awesome-mac",
+      "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+      "language": "Swift",
+      "stars": "0",
+      "link": "https://github.com/jaywcjlove/awesome-mac",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/calesthio/OpenMontage",
+      "source": "GitHub Trending"
+    }
+  ]
+}
