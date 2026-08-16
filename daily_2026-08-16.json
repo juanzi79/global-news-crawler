@@ -1,0 +1,201 @@
+{
+  "date": "2026-08-16",
+  "news": [
+    {
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "link": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Bede Liu, a digital signal processing pioneer, has died",
+      "link": "https://spectrum.ieee.org/digital-signal-processing",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "link": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Abdominal fat predicts heart disease risk better than BMI",
+      "link": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "link": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+      "link": "https://sugartrack-beta.vercel.app/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "RISC-V: They Should Have Known Better",
+      "link": "https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Tracking down a Zsh history data loss bug",
+      "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "link": "https://sankalp.bearblog.dev/autoresearch/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+      "link": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A fortuitous decade as an indie software developer",
+      "link": "https://lapcatsoftware.com/articles/2026/8/3.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A spectre is haunting Unicode",
+      "link": "https://www.dampfkraft.com/ghost-characters.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Tess&#x27;s Android Wayland Compositor",
+      "link": "https://github.com/wmww/tawc",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/cordiverse/cordis",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "language": "HTML",
+      "stars": "0",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/cursor/plugins",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/cactus-compute/needle",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/unslothai/unsloth",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/public-apis/public-apis",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "MakazhanAlpamys/Soup",
+      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/MakazhanAlpamys/Soup",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/github/spec-kit",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/megadose/holehe",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - <a href=\"https://x.com/fluidvoiceapp\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://x.com/fluidvoiceapp</a>",
+      "language": "Swift",
+      "stars": "0",
+      "link": "https://github.com/altic-dev/FluidVoice",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/ToolJet/ToolJet",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: <a href=\"https://clianything.cc/\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://clianything.cc/</a>",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/HKUDS/CLI-Anything",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/citrolabs/ego-lite",
+      "source": "GitHub Trending"
+    }
+  ]
+}
