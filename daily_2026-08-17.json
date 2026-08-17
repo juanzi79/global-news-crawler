@@ -1,0 +1,153 @@
+{
+  "date": "2026-08-17",
+  "news": [
+    {
+      "title": "A 3rd World Embedded Engineer Responds to &quot;RISC-V They Should Have Known Better&quot;",
+      "link": "https://rvembedded.com/blog_post/12/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Claude: System Prompts",
+      "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "SIMD in the 90s: Programming Intel&#x27;s Pentium MMX",
+      "link": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Low-Tech Ceramic Water Filter",
+      "link": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A quick look at zero-knowledge proofs",
+      "link": "https://bernsteinbear.com/blog/zkp/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Models Are Getting Dumber on Purpose",
+      "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The AI Credit Resale Economy",
+      "link": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Protobuf has LSP support. You&#x27;re welcome",
+      "link": "https://buf.build/blog/protobuf-lsp",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "MathCode, Mathematical Coding Agent",
+      "link": "https://math-ai-org.github.io/mathcode/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "link": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Case Against Formal Verification, 50 Years Later",
+      "link": "https://ivan-gavran.github.io/0-social-processes-paper",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Anthropic&#x27;s &#x27;Watermark&#x27; Text Adulteration in Claude Is a Perversion of Writing",
+      "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Clamiga: Common Lisp for the Amiga",
+      "link": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
+      "link": "https://www.youtube.com/watch?v=-y8bGBE71yw",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/cordiverse/cordis",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "basecamp/omarchy",
+      "description": "Beautiful, Modern &amp; Opinionated Linux",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/basecamp/omarchy",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/unslothai/unsloth",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/OpenCut-app/OpenCut",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/public-apis/public-apis",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/ToolJet/ToolJet",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/cactus-compute/needle",
+      "source": "GitHub Trending"
+    }
+  ]
+}
