@@ -1,0 +1,185 @@
+{
+  "date": "2026-08-18",
+  "news": [
+    {
+      "title": "How Bluesky draws its logo on screenshots",
+      "link": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Cursor Origin",
+      "link": "https://cursor.com/docs/origin",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "link": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "link": "https://arxiv.org/abs/2608.13759",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A Preview of DuckDB v2.0",
+      "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Incident with Github.com",
+      "link": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake&#x27;s Jira",
+      "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "link": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Road to MS-DOS 2.0",
+      "link": "https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Olo (Color)",
+      "link": "https://en.wikipedia.org/wiki/Olo_(color)",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AI;DR (AI; Didn&#x27;t Read)",
+      "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "GPT 5.6 Sol is the best &quot;vision&quot; model OpenAI ever released",
+      "link": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Judge sets framework for Nine PBS to retrieve archival data",
+      "link": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How do functions like alloca allocate memory from the stack?",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/usestrix/strix",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/nautechsystems/nautilus_trader",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/akitaonrails/ai-memory",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "AlexsJones/llmfit",
+      "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/AlexsJones/llmfit",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/santifer/career-ops",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "jundot/omlx",
+      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/jundot/omlx",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/immich-app/immich",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/cordiverse/cordis",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/agalwood/Motrix",
+      "source": "GitHub Trending"
+    }
+  ]
+}
