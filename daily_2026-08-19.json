@@ -1,0 +1,201 @@
+{
+  "date": "2026-08-19",
+  "news": [
+    {
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "link": "https://github.com/DenisSergeevitch/desktop-fly",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Being ambitious and being a dad",
+      "link": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Amazon tax",
+      "link": "https://seths.blog/2026/08/the-amazon-tax/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How does IKEA come up with names for its products?",
+      "link": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Turbovec – Google&#x27;s TurboQuant for vector search in Rust",
+      "link": "https://github.com/RyanCodrai/turbovec",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Solo – a .so loader for static Linux binaries",
+      "link": "https://github.com/pg83/solo",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "link": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Using the railway network as a flatbed scanner",
+      "link": "https://philo.gay/linecam/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Beware Management Consultants",
+      "link": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+      "link": "https://modelmap.cc",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Cursor launches Origin, GitHub alternative",
+      "link": "https://cursor.com/changelog/origin-code-hosting",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Fixing a bricked Framework laptop",
+      "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "GLM-5.3 Artificial Analysis Benchmarks",
+      "link": "https://artificialanalysis.ai/models/glm-5-3",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AI usage patterns in software teams",
+      "link": "https://linear.app/data",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A 25-year-old video patent just expired, ending a legal headache for Linux",
+      "link": "https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/chaitanyagiri/munder-difflin",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/akitaonrails/ai-memory",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/volcengine/OpenViking",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/public-apis/public-apis",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "basecamp/omarchy",
+      "description": "Beautiful, Modern &amp; Opinionated Linux",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/basecamp/omarchy",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/agalwood/Motrix",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "stars": "0",
+      "link": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "jundot/omlx",
+      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/jundot/omlx",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/bojieli/ai-agent-book",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "genlayerlabs/genlayer-project-boilerplate",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "description": "N/A",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/OpenCut-app/OpenCut",
+      "source": "GitHub Trending"
+    }
+  ]
+}
