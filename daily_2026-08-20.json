@@ -1,0 +1,201 @@
+{
+  "date": "2026-08-20",
+  "news": [
+    {
+      "title": "OpenRouter is joining Stripe",
+      "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Go 1.27",
+      "link": "https://go.dev/blog/go1.27",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
+      "link": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Unlocking a locked&#x2F;deactivated e-waste Cricut Maker",
+      "link": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Sol Loves to Cheat",
+      "link": "https://jumploops.com/blog/sol-loves-to-cheat/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Os8088.com: IBM XT OS now has a Browser, CP&#x2F;M 2.2 with Z80 core and MS Word 1.1a",
+      "link": "https://os8088.com/spotlight/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Technical leaders should have the largest AI exhaust",
+      "link": "https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Feature Request: Support AGENTS.md",
+      "link": "https://github.com/anthropics/claude-code/issues/6235",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Casio F-B100W-1A",
+      "link": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "DFlash 2: Keep Drafting Parallel",
+      "link": "https://inco.ai/blog/dflash2/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Why travellers are obsessed with foreign supermarkets",
+      "link": "https://www.bbc.com/travel/article/20260811-the-supermarket-is-becoming-a-tourist-attraction",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The little-known winstart.bat batch file",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/volcengine/OpenViking",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/chaitanyagiri/munder-difflin",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/nautechsystems/nautilus_trader",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "jundot/omlx",
+      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/jundot/omlx",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/santifer/career-ops",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/immich-app/immich",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "amadeusprotocol/node",
+      "description": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/amadeusprotocol/node",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "marceloprates/prettymaps",
+      "description": "N/A",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/marceloprates/prettymaps",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "genlayerlabs/genlayer-project-boilerplate",
+      "description": "N/A",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "source": "GitHub Trending"
+    }
+  ]
+}
