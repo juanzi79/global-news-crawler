@@ -1,0 +1,217 @@
+{
+  "date": "2026-08-21",
+  "news": [
+    {
+      "title": "The August 17 outage, and the work ahead",
+      "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Consumer Rights Wiki",
+      "link": "https://consumerrights.wiki/w/Main_Page",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "I like &#x27;em thick: an apology to my English teachers",
+      "link": "https://www.experimental-history.com/p/i-like-em-thick",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "link": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "I should have loved biology (2020)",
+      "link": "https://jsomers.net/i-should-have-loved-biology/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "HTML Can Do That",
+      "link": "https://chrisburnell.com/html-can-do-that/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "link": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Copyright does not protect AI-generated content in EU",
+      "link": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "link": "https://www.danielvaughn.dev/posts/huzzah/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "CIA funding helped keep NeXT afloat in the 80s",
+      "link": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&amp;reflink=desktopwebshare_permalink",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Why aren&#x27;t smart people happier? (2022)",
+      "link": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "SpacetimeDB: A Short Technical Review",
+      "link": "https://strn.cat/posts/spacetime/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Detecting scraper bots through scroll behaviour",
+      "link": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "modular/modular",
+      "description": "The Modular Platform (includes MAX &amp; Mojo)",
+      "language": "Mojo",
+      "stars": "0",
+      "link": "https://github.com/modular/modular",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/AprilNEA/OpenLogi",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/cursor/plugins",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/santifer/career-ops",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/akitaonrails/ai-memory",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/agent-substrate/substrate",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/chaitanyagiri/munder-difflin",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/PostHog/posthog",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mahlernim/google-timeline-visualizer",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "language": "Kotlin",
+      "stars": "0",
+      "link": "https://github.com/mahlernim/google-timeline-visualizer",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/volcengine/OpenViking",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/JuliusBrussee/caveman",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/makeplane/plane",
+      "source": "GitHub Trending"
+    }
+  ]
+}
