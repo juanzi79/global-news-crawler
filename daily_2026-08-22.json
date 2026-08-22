@@ -1,0 +1,217 @@
+{
+  "date": "2026-08-22",
+  "news": [
+    {
+      "title": "Paul Atkins Misreads Adam Smith and the American Founding",
+      "link": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Kobo can run apps now",
+      "link": "https://bandarlabs.github.io/Cobalt/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Felony Bench",
+      "link": "https://www.felonybench.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "link": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Scientists release biggest 2D map of the universe",
+      "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Electric shock gloves in use by police departments in Bellevue, Omaha",
+      "link": "https://nebraskapublicmedia.org/en/news/news-articles/electric-shock-gloves-already-in-use-by-police-departments-in-bellevue-omaha/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "link": "https://kagi.com/changelog#11296",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "link": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "link": "https://lina.sh/blog/hijacking-e164-arpa",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Three important steps in my maturation process",
+      "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "link": "https://ozbrain.com",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "link": "https://api-docs.deepseek.com/guides/vision/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
+      "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
+      "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "I ran Photoshop on a £0.60 computer chip",
+      "link": "https://pointinthecloud.com/2026-08-19-144600.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mahlernim/google-timeline-visualizer",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "language": "Kotlin",
+      "stars": "0",
+      "link": "https://github.com/mahlernim/google-timeline-visualizer",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/AprilNEA/OpenLogi",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/PostHog/posthog",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/microsoft/TypeScript",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/santifer/career-ops",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/cursor/plugins",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "modular/modular",
+      "description": "The Modular Platform (includes MAX &amp; Mojo)",
+      "language": "Mojo",
+      "stars": "0",
+      "link": "https://github.com/modular/modular",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "TryGhost/Ghost",
+      "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/TryGhost/Ghost",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/apache/maka",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/protocolbuffers/protobuf",
+      "source": "GitHub Trending"
+    }
+  ]
+}
