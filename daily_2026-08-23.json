@@ -1,0 +1,217 @@
+{
+  "date": "2026-08-23",
+  "news": [
+    {
+      "title": "Scrap",
+      "link": "https://twitter.com/moxie/status/2091218652133732491",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "NanoGPT Speedrun Frontier",
+      "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Why your local LLM feels dumber than it is",
+      "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "NetBSD and my life (2005)",
+      "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "link": "https://quantumi.sh/public/labs.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Hister – A private, full content search index that you control",
+      "link": "https://hister.org/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "RF Cafe",
+      "link": "https://www.rfcafe.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "typ.ing",
+      "link": "https://typ.ing/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A Friendly Introduction to Racket",
+      "link": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
+      "link": "https://atproto.com/blog/atproto-spaces-alpha",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+      "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "One night in Uzbekistan: Why was this one data point so influential?",
+      "link": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Canada will match US tariffs &#x27;dollar for dollar&#x27; as trade talks break down",
+      "link": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "link": "https://munderdiffl.in/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/openai/codex",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/Wei-Shaw/sub2api",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/makeplane/plane",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/n8n-io/n8n",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/claude-code",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/AprilNEA/OpenLogi",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "modular/modular",
+      "description": "The Modular Platform (includes MAX &amp; Mojo)",
+      "language": "Mojo",
+      "stars": "0",
+      "link": "https://github.com/modular/modular",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Kotlin",
+      "stars": "0",
+      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mahlernim/google-timeline-visualizer",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "language": "HTML",
+      "stars": "0",
+      "link": "https://github.com/mahlernim/google-timeline-visualizer",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/ripienaar/free-for-dev",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/microsoft/TypeScript",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/cursor/plugins",
+      "source": "GitHub Trending"
+    }
+  ]
+}
