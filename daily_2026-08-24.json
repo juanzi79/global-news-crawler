@@ -1,0 +1,217 @@
+{
+  "date": "2026-08-24",
+  "news": [
+    {
+      "title": "Everything I own, owned",
+      "link": "https://schlarp.com/posts/everything-i-own-owned/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How I find problems to solve as a staff engineer",
+      "link": "https://lalitm.com/post/find-problems-staff-engineer/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Anthropic&#x27;s best AI model struggles to attract users as cheaper tools thrive",
+      "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "link": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AI Chip Architectures",
+      "link": "https://www.jepeake.com/ai-chip-architectures",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "link": "https://fabiensanglard.net/agent.md/index.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "What Is a Harness?",
+      "link": "https://earendil.com/posts/what-is-a-harness/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How Complex Systems Fail (1998)",
+      "link": "https://how.complexsystems.fail/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Implementation of GPT-2 in pure CMake",
+      "link": "https://github.com/AlpinDale/gpt2.cmake",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "link": "https://securelist.com/android-head-unit-malware/121106/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "My favorite nonfiction books about cults, scams, and schemes",
+      "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Why Sal Khan&#x27;t: On Learning by Making but Teaching by Telling",
+      "link": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A website for debloated open source alternatives",
+      "link": "https://debloat.dev/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Explain it to me like I&#x27;m ten",
+      "link": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Decoding silent reading from non-invasive EEG",
+      "link": "https://arxiv.org/abs/2608.20186",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/openai/codex",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "basecamp/omarchy",
+      "description": "Beautiful, Modern &amp; Opinionated Linux",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/basecamp/omarchy",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/AprilNEA/OpenLogi",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/block/buzz",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/apache/maka",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Alishahryar1/free-claude-code",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/tinyhumansai/openhuman",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "VoltAgent/awesome-agent-skills",
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/VoltAgent/awesome-agent-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/virgiliojr94/book-to-skill",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/dani-garcia/vaultwarden",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "language": "HTML",
+      "stars": "0",
+      "link": "https://github.com/anthropics/claude-plugins-community",
+      "source": "GitHub Trending"
+    }
+  ]
+}
