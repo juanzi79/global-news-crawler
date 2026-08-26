@@ -1,0 +1,217 @@
+{
+  "date": "2026-08-26",
+  "news": [
+    {
+      "title": "Python&#x27;s pre-declared constants are kinda weird",
+      "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple introduces M6 and M5 Ultra",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "link": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "link": "https://github.com/runetes/maiao",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+      "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Black hole singularity is a surface not a point",
+      "link": "https://arxiv.org/abs/2608.21590",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "link": "https://github.com/swimmingbrain/texbrain",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "C2PA Cameras Do Not Survive Contact with Reality",
+      "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "New Mac mini, featuring M6 and M5 Pro",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Nitter project received cease and desist",
+      "link": "https://github.com/zedeus/nitter/issues/1442",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Bomb fishing is wreaking havoc on Indonesia&#x27;s coral reefs",
+      "link": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "link": "https://github.com/ThinkOffApp/CarWatch",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A brief history of federal lift ticket regulation",
+      "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/claude-plugins-community",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/MadsLorentzen/ai-job-search",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/apache/maka",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "AgriciDaniel/claude-obsidian",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/AgriciDaniel/claude-obsidian",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/tinyhumansai/openhuman",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "basecamp/omarchy",
+      "description": "Beautiful, Modern &amp; Opinionated Linux",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/basecamp/omarchy",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/openai/codex",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/marin-community/marin",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/anthropics/claude-plugins-official",
+      "source": "GitHub Trending"
+    }
+  ]
+}
