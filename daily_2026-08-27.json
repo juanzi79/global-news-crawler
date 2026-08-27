@@ -1,0 +1,217 @@
+{
+  "date": "2026-08-27",
+  "news": [
+    {
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "link": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "link": "https://github.com/SenteLabsAI/OpenExecutive",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Mechanical Turk shutting down September 30",
+      "link": "https://www.mturk.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "GLM-5.3-Flash",
+      "link": "https://z.ai/blog/glm-5.3-flash",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Kusama Yayoi Dies at 97",
+      "link": "https://news.jp/i/1465528042000662661",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Asahi Linux Progress Report: Linux 7.2",
+      "link": "https://asahilinux.org/2026/08/progress-report-7-2/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "link": "https://github.com/tailscale/tailcat",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Laion Big Video Dataset",
+      "link": "https://projects.laion.ai/bvd/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+      "link": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "An ongoing 3D-printer AGPL violation",
+      "link": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "U.S. State Department pauses immigrant visa applications",
+      "link": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Stripe acquires Clerky",
+      "link": "https://www.clerky.com/blog/clerky-is-joining-stripe",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Zohran and the Short Link",
+      "link": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Twitter Viewer – View Twitter Without Account",
+      "link": "https://twitterwebviewer.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Hugging Face incident and the road ahead",
+      "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "HTML",
+      "stars": "0",
+      "link": "https://github.com/tt-a1i/archify",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/claude-plugins-official",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Alishahryar1/free-claude-code",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/MadsLorentzen/ai-job-search",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "AgriciDaniel/claude-obsidian",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/AgriciDaniel/claude-obsidian",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "basecamp/omarchy",
+      "description": "Beautiful, Modern &amp; Opinionated Linux",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/basecamp/omarchy",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/tinyhumansai/openhuman",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/claude-plugins-community",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "language": "CSS",
+      "stars": "0",
+      "link": "https://github.com/ConardLi/garden-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/browser-use/browser-use",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/marin-community/marin",
+      "source": "GitHub Trending"
+    }
+  ]
+}
