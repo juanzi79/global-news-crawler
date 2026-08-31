@@ -1,0 +1,217 @@
+{
+  "date": "2026-08-31",
+  "news": [
+    {
+      "title": "“I just chose words carefully”",
+      "link": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Creepy Crawlies",
+      "link": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Haiku R1&#x2F;beta6 has been released",
+      "link": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "link": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
+      "link": "https://wilsonharper.net/projects/businesscard/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Sort branches by last commit date",
+      "link": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Continuous Diffusion Language Models (CDLM&#x27;s)",
+      "link": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Relm4 makes developing beautiful cross-platform applications idiomatic",
+      "link": "https://relm4.org/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Commercially Available Bike Generators Are Not Sustainable (2011)",
+      "link": "https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+      "link": "https://github.com/KodeMunkie/sm750hdmifb",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Hacking IKEA Furniture",
+      "link": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+      "link": "https://komoroske.com/slime-mold/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Yen weakens past ¥160 per dollar, eroding intervention gains",
+      "link": "https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Matrox: Graphics for Professionals",
+      "link": "https://www.abortretry.fail/p/matrox",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Startup Anti-Patterns",
+      "link": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/THU-MAIC/OpenMAIC",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Lakr233/vphone-cli",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "Swift",
+      "stars": "0",
+      "link": "https://github.com/Lakr233/vphone-cli",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "tt-a1i/archify",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/tt-a1i/archify",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "p-e-w/heretic",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: <a href=\"https://discord.gg/jP8KfhDhyN\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://discord.gg/jP8KfhDhyN</a>",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/p-e-w/heretic",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/unclecode/crawl4ai",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "majd/ipatool",
+      "description": "A collection of MCP servers.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/majd/ipatool",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "punkpeye/awesome-mcp-servers",
+      "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+      "language": "Java",
+      "stars": "0",
+      "link": "https://github.com/punkpeye/awesome-mcp-servers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "checkstyle/checkstyle",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars": "0",
+      "link": "https://github.com/checkstyle/checkstyle",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "description": "RL training environments for Microduck (mjlab)",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/NationalSecurityAgency/ghidra",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "pollen-robotics/microduck_rl",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/pollen-robotics/microduck_rl",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "handsomestWei/patent-disclosure-skill",
+      "description": "Connect your users to their apps",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "corsairdev/corsair",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/corsairdev/corsair",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "every-app/open-seo",
+      "description": "TypeScript-first schema validation with static type inference",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/every-app/open-seo",
+      "source": "GitHub Trending"
+    }
+  ]
+}
