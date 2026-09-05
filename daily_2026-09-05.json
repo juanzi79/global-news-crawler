@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-05",
+  "news": [
+    {
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "link": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Formalizing Fermat&#x27;s Last Theorem",
+      "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Discovery of a new OpenAI agent message board",
+      "link": "https://collusion.wiki/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Artificial Analysis Intelligence Index v4.2",
+      "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Statichost.eu – European static site hosting",
+      "link": "https://www.statichost.eu/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "GPT-6 Astra on OpenRouter",
+      "link": "https://openrouter.ai/openai/gpt-6-astra",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Shutting down our public encrypted DNS",
+      "link": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Can AI design circuit boards yet?",
+      "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Can guitar frets perform multiplication?",
+      "link": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Reversing MikroTik&#x27;s Silent Patch: The RouterOS 7.23.4 Fix They Wouldn&#x27;t Explain",
+      "link": "https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "RSA-260 Factorized",
+      "link": "https://twitter.com/penlume/status/2095372672356212876",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "link": "https://opentrailpaper.com",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "An open DNS recursive service for free security and high privacy",
+      "link": "https://quad9.net/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+      "link": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "link": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/fmtlib/fmt",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/blader/humanizer",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/JuliusBrussee/caveman",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "magnitudedev/magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/magnitudedev/magnitude",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "bikini/exploitarium",
+      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/bikini/exploitarium",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "stars": "0",
+      "link": "https://github.com/bannedbook/fanqiang",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/google-research/timesfm",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "radixark/miles",
+      "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/radixark/miles",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/anomalyco/opencode",
+      "source": "GitHub Trending"
+    }
+  ]
+}
