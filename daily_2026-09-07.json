@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-07",
+  "news": [
+    {
+      "title": "Making a Python interpreter in 1024 bytes",
+      "link": "https://austinhenley.com/blog/python1024.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Your intellectual fly is open (2025)",
+      "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "link": "https://github.com/marsbos/mador",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Nitter and XCancel resume service after legal advice",
+      "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Is mathematics about to enter the conservatory?",
+      "link": "https://mbmccoy.dev/posts/mathematical-conservatory/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Harnessing the Universal Geometry of Embeddings",
+      "link": "https://arxiv.org/abs/2505.12540",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
+      "link": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "link": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Black Hole of Los Alamos Seller of surplus nuclear research materials (2011)",
+      "link": "https://www.atlasobscura.com/places/black-hole-of-los-alamos",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "An Alien Mind",
+      "link": "https://openai.com/index/an-alien-mind/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Adverse Selection and Markouts",
+      "link": "https://machow.ski/posts/markouts_and_adverse_selection/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Reverse engineering the storage format for an undocumented database",
+      "link": "https://blog.glazer.ee/posts/converting-cronos/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Asahi Linux on M3",
+      "link": "https://asahilinux.org/2026/09/m2-episode-1/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": "0",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/openai/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/anomalyco/opencode",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/blader/humanizer",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "llvm/llvm-project",
+      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+      "language": "LLVM",
+      "stars": "0",
+      "link": "https://github.com/llvm/llvm-project",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "magnitudedev/magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/magnitudedev/magnitude",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "BraveOPotato/FckSignups",
+      "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/BraveOPotato/FckSignups",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/coreyhaines31/marketingskills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "aipoch/open-science",
+      "description": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/aipoch/open-science",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "OpenWhispr/openwhispr",
+      "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/OpenWhispr/openwhispr",
+      "source": "GitHub Trending"
+    }
+  ]
+}
