@@ -1,0 +1,209 @@
+{
+  "date": "2026-09-08",
+  "news": [
+    {
+      "title": "TALA Is Open-Source",
+      "link": "https://d2lang.com/blog/tala-is-open-source/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+      "link": "https://github.com/Sadpainy/Stuxnet",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "link": "https://lax-skyline.parcelscope.net/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "I&#x27;ve factored the RSA keys of a Certificate Authority from the 90s",
+      "link": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "link": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "link": "https://arxiv.org/abs/2607.24888",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "WeatherNext 3",
+      "link": "https://deepmind.google/science/weathernext/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Scientists observe Einstein&#x27;s gravity in the quantum world",
+      "link": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "John Margolies&#x27; Photographs of Roadside America",
+      "link": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Finding a bug in Dummit and Foote&#x27;s Abstract Algebra",
+      "link": "https://kallus.org/blog/dummit_and_foote.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+      "link": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: I built an aesthetically pleasing puzzle",
+      "link": "https://jigsawhaiku.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Interactive Tree of Life",
+      "link": "https://ptree.org/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Working on Economics with Fable 5",
+      "link": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "This Month in Ladybird – August 2026",
+      "link": "https://ladybird.org/newsletter/2026-08-31/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/microsoft/markitdown",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "jo-inc/camofox-browser",
+      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/jo-inc/camofox-browser",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "MoonTechLab/LunaTV",
+      "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/MoonTechLab/LunaTV",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/coreyhaines31/marketingskills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "The-Swarm-Corporation/AutoHedge",
+      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "BraveOPotato/FckSignups",
+      "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/BraveOPotato/FckSignups",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/bytedance/deer-flow",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/openai/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "language": "Zig",
+      "stars": "0",
+      "link": "https://github.com/lightpanda-io/browser",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/pascalorg/editor",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending"
+    }
+  ]
+}
