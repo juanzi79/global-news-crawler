@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-09",
+  "news": [
+    {
+      "title": "Muse – Meta’s personal AI agent",
+      "link": "https://ai.meta.com/muse/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How to build a printer",
+      "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "link": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "link": "https://openai.com/index/navier-stokes-solution/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "DaVinci Resolve 21.1",
+      "link": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Microeconomics of Artificial Intelligence (2025)",
+      "link": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "link": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "link": "https://mathstodon.xyz/@tao/117237320796901560",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Kimi K3 (2.8T) at 1 token&#x2F;s on a MacBook Pro, streamed from four SSDs",
+      "link": "https://github.com/argonautlabsai/deltafin",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A Topological Picture Book, Rendered",
+      "link": "https://e-infinity.space/picture-book/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Getting phpBB 1.4.4 working in Docker",
+      "link": "https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Animation in Bevy: The Big Picture",
+      "link": "https://glocq.com/en/blog/20260827/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": "0",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/openai/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/coreyhaines31/marketingskills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/microsoft/markitdown",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "jo-inc/camofox-browser",
+      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/jo-inc/camofox-browser",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "MoonTechLab/LunaTV",
+      "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/MoonTechLab/LunaTV",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "description": "Agents that use the browser.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/browser-use/browser-use",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "The-Swarm-Corporation/AutoHedge",
+      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "viarotel-org/escrcpy",
+      "description": "📱 Display and control your Android device graphically with scrcpy.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/viarotel-org/escrcpy",
+      "source": "GitHub Trending"
+    }
+  ]
+}
