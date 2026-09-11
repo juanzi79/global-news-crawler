@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-11",
+  "news": [
+    {
+      "title": "Google will buy half the electricity of a nuclear power plant",
+      "link": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "link": "https://shopify.engineering/back-to-native",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "YuE2 · Frontier Music with Symbolic Planning",
+      "link": "https://map-yue2.github.io/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "link": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "link": "https://auberon.xyz/blog/posts/deathray/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "OpenAI Agents API",
+      "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Don&#x27;t let anyone take away your big box of cables",
+      "link": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "link": "https://cognition.com/blog/swe-2",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "link": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "link": "https://system76.com/workstations/thelio-mira-ai",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
+      "link": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Details.so",
+      "link": "https://www.details.so/inspo",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Music Theory for the 21st-Century Classroom",
+      "link": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Customizing my Compaq MX-11800 keyboard",
+      "link": "https://blog.webb.page/WM-102",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Forgejo &lt;=16.0.3 Critical RCE",
+      "link": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/alsk1992/CloddsBot",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Tencent/teamai-cli",
+      "description": "Make Every Team AI Native",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/Tencent/teamai-cli",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "AlexsJones/llmfit",
+      "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/AlexsJones/llmfit",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "liquidslr/system-design-notes",
+      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "language": "HTML",
+      "stars": "0",
+      "link": "https://github.com/liquidslr/system-design-notes",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+      "language": "C",
+      "stars": "0",
+      "link": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/armory3d/armorpaint",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+      "language": "C",
+      "stars": "0",
+      "link": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/JustVugg/colibri",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/THU-MAIC/OpenMAIC",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/nashsu/llm_wiki",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/vercel-labs/skills",
+      "source": "GitHub Trending"
+    }
+  ]
+}
