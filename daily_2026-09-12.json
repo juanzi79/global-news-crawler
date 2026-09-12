@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-12",
+  "news": [
+    {
+      "title": "A misalignment of AI in mathematics",
+      "link": "https://mathandai.org/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "link": "https://www.rubyhack.ai/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A Design Space Exploration of Async&#x2F;Await",
+      "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "GrapheneOS&#x27; rewritten Messages app is released",
+      "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Project Blinkenlights",
+      "link": "https://blinkenlights.de/en/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "link": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+      "link": "https://github.com/mirza-rizvi/ResolveHQ",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "link": "https://github.com/kennethwolters/litelm",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Mind-altering drugs played key role in rise of Andean civilization",
+      "link": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+      "link": "https://snap.berkeley.edu/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AlphaGenome maps 9B DNA variants",
+      "link": "https://spectrum.ieee.org/alphagenome-atlas",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Rune is now open source",
+      "link": "https://rune.build/blog/rune-is-now-open-source",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Hepburn Romanization: How to Read Japanese in the Latin Alphabet",
+      "link": "https://www.fink-translate.com/blog/hepburn-romanization.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The EPA is planning to scrap public review rules for data center pollution",
+      "link": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "nab138/iloader",
+      "description": "User friendly sideloader",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/nab138/iloader",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/melgarafael/DeskcommCRM",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/vastsa/PI-Desktop",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "stars": "0",
+      "link": "https://github.com/armory3d/armorpaint",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/alsk1992/CloddsBot",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/nashsu/llm_wiki",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Sonarr/Sonarr",
+      "description": "Smart PVR for newsgroup and bittorrent users.",
+      "language": "C#",
+      "stars": "0",
+      "link": "https://github.com/Sonarr/Sonarr",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "jihe520/MathModelAgent",
+      "description": "🤖📐专为数学建模设计的 Agent &amp; skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/jihe520/MathModelAgent",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "p1neappleXpress/OpenFlux",
+      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/p1neappleXpress/OpenFlux",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "jordan-gibbs/hyperresearch",
+      "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/jordan-gibbs/hyperresearch",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "alphaXiv/OpenResearch",
+      "description": "Run parallel research agents with any model",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/alphaXiv/OpenResearch",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/github/spec-kit",
+      "source": "GitHub Trending"
+    }
+  ]
+}
