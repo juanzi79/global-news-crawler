@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-13",
+  "news": [
+    {
+      "title": "Make your first edit to OpenStreetMap",
+      "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Everyone should slow down AI development except for me",
+      "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "link": "https://withspecific.com/benchmarks/real-swe",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple wants to train AI on your private personal data",
+      "link": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple iPod Engraver (2019)",
+      "link": "https://dunstanorchard.com/apple-ipod-engraver/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Getting 50 GB&#x2F;S Back from the Apple Neural Engine",
+      "link": "https://eiln.github.io/posts/ane-dma.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Stabilizing Rust&#x27;s Never Type",
+      "link": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "LG denies TV spying claims, says tracking and snooping concerns &#x27;not true&#x27;",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Align AI and Mathematics–To Something Else",
+      "link": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "IKEA made a mod for Skyrim [video]",
+      "link": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Recurrent Looped Transformer",
+      "link": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "We must pace the frontier",
+      "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Will There Be a 7G?",
+      "link": "https://arxiv.org/abs/2609.01877",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "I made a build visualizer to understand Bun&#x27;s compile times",
+      "link": "https://lalitm.com/post/buildprof/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/melgarafael/DeskcommCRM",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "nab138/iloader",
+      "description": "User friendly sideloader",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/nab138/iloader",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "description": "🤖📐专为数学建模设计的 Agent &amp; skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "language": "Batchfile",
+      "stars": "0",
+      "link": "https://github.com/Flowseal/zapret-discord-youtube",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "jihe520/MathModelAgent",
+      "description": "Smart PVR for newsgroup and bittorrent users.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/jihe520/MathModelAgent",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Sonarr/Sonarr",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "language": "C#",
+      "stars": "0",
+      "link": "https://github.com/Sonarr/Sonarr",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "alsk1992/CloddsBot",
+      "description": "Browse media content with your own rules on Android TV",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/alsk1992/CloddsBot",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "yuliskov/SmartTube",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "language": "Java",
+      "stars": "0",
+      "link": "https://github.com/yuliskov/SmartTube",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "p1neappleXpress/OpenFlux",
+      "description": "Graphics Creation Tools",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/p1neappleXpress/OpenFlux",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "armory3d/armorpaint",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "C",
+      "stars": "0",
+      "link": "https://github.com/armory3d/armorpaint",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/SnailSploit/Claude-Red",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "multimodal-art-projection/YuE",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/multimodal-art-projection/YuE",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "max-sixty/worktrunk",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/max-sixty/worktrunk",
+      "source": "GitHub Trending"
+    }
+  ]
+}
