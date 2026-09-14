@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-14",
+  "news": [
+    {
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Why is Google still serving dodgy ads?",
+      "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The case against JPEG XL",
+      "link": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Open-Source AI and Open Models Reading List",
+      "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Julia 1.13 highlights",
+      "link": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "link": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Data collected by cars and sold to third parties",
+      "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
+      "link": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
+      "link": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Ask HN: What are you working on? (September 2026)",
+      "link": "https://news.ycombinator.com/item?id=49686380",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Mullenweg has returned as CEO after attempted board ouster",
+      "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Coming War on General Computation (2011)",
+      "link": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "I build a mechanical watch face: a real gear train for a watch with no gears",
+      "link": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+      "link": "https://bensimms.moe/reverse-engineering-scooter/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": "0",
+      "link": "https://github.com/JustVugg/colibri",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - <a href=\"https://gauzy.co\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://gauzy.co</a>",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/ever-co/ever-gauzy",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/tech-leads-club/agent-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/melgarafael/DeskcommCRM",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/calesthio/OpenMontage",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/vxcontrol/pentagi",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/multimodal-art-projection/YuE",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "yuliskov/SmartTube",
+      "description": "Browse media content with your own rules on Android TV",
+      "language": "Java",
+      "stars": "0",
+      "link": "https://github.com/yuliskov/SmartTube",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "alphaXiv/OpenResearch",
+      "description": "Run parallel research agents with any model",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/alphaXiv/OpenResearch",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/SnailSploit/Claude-Red",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "jihe520/MathModelAgent",
+      "description": "🤖📐专为数学建模设计的 Agent &amp; skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/jihe520/MathModelAgent",
+      "source": "GitHub Trending"
+    }
+  ]
+}
