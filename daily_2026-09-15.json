@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-15",
+  "news": [
+    {
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Pion, an agent designed to run any company autonomously",
+      "link": "https://andonlabs.com/blog/why-we-built-pion",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "link": "https://github.com/JamesRyanATX/fcbnerd",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Charts built for Chat",
+      "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Compressing a Flag to 11 Bits",
+      "link": "https://read.vantezzen.io/miniflags",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Distributed Systems Classics (2017)",
+      "link": "https://nvartolomei.com/dist-sys-classics/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+      "link": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "XCancel service is suspended until further notice",
+      "link": "https://xcancel.com/#",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "link": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Principles for Fast Tokio Applications",
+      "link": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How my e-reader lost its stripes",
+      "link": "https://www.serpentine.com/posts/2026/x3-stripes/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+      "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Steam Frame starts at $1059",
+      "link": "https://store.steampowered.com/hardware/steamframe",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Why don&#x27;t machine learning research agents overfit?",
+      "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": "0",
+      "link": "https://github.com/JustVugg/colibri",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/multimodal-art-projection/YuE",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/666ghj/MiroFish",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "rlaope/oh-my-hermes",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/rlaope/oh-my-hermes",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "localsend/localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "language": "Dart",
+      "stars": "0",
+      "link": "https://github.com/localsend/localsend",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/dani-garcia/vaultwarden",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/ruvnet/RuView",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/tech-leads-club/agent-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/OpenBMB/VoxCPM",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/huggingface/transformers",
+      "source": "GitHub Trending"
+    }
+  ]
+}
