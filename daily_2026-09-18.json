@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-18",
+  "news": [
+    {
+      "title": "Astra for Law",
+      "link": "https://openai.com/index/astra-for-law/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "link": "https://prismml.com/news/bonsai-2-27b",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "link": "https://bend-lang.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "link": "https://github.com/asciimoo/hister",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Wax motor",
+      "link": "https://en.wikipedia.org/wiki/Wax_motor",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "link": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe",
+      "link": "https://github.com/aardappel/goose/tree/master",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Claude Code from Source",
+      "link": "https://claude-code-from-source.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Alibaba releases Qwen 3.8 Omni Flash",
+      "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Flet 1.0 – Build cross-platform apps in Python",
+      "link": "https://flet.dev/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+      "link": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "CrowdSec Source Code Leak",
+      "link": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How Uber Protects Against Retry Storms",
+      "link": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The most important product decision is what you don&#x27;t build",
+      "link": "https://liamnugent.me/posts/what-you-dont-build/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+      "link": "https://arxiv.org/abs/2609.18842",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/Tencent/BrowserSkill",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/alphaXiv/OpenResearch",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/anthropics/claude-code",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars": "0",
+      "link": "https://github.com/NationalSecurityAgency/ghidra",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/Tencent/WeKnora",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "abue-ammar/tinycast",
+      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "language": "Swift",
+      "stars": "0",
+      "link": "https://github.com/abue-ammar/tinycast",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/cilium/cilium",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/jamiepine/voicebox",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/roboflow/supervision",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": "0",
+      "link": "https://github.com/JustVugg/colibri",
+      "source": "GitHub Trending"
+    }
+  ]
+}
