@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-19",
+  "news": [
+    {
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Cloudflare Quick Tunnels",
+      "link": "https://try.cloudflare.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Saving another 100TB of RAM",
+      "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Farnese letter",
+      "link": "https://simonklee.dk/farnese-letter",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Xcode 27.1 Beta Release Notes",
+      "link": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How to Write with an LLM",
+      "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "link": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "link": "https://spectrum.ieee.org/llms-for-chip-design",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "link": "https://cactuscompute.com/needle",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "link": "https://arxiv.org/abs/2510.03215",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The first new cat species discovered in 100 years",
+      "link": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "OpenJev",
+      "link": "https://openjev.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "link": "https://code.claude.com/docs/en/changelog",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Cyclomatic Complexity in C#",
+      "link": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: LiveWorld – Every 24&#x2F;7 YouTube live camera on one globe",
+      "link": "https://liveworld.info/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/anthropics/claude-code",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/Tencent/BrowserSkill",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/TencentCloud/Octop",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/Fission-AI/OpenSpec",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/ankitects/anki",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/supermemoryai/supermemory",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/tradesdontlie/tradingview-mcp",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "rustfs/rustfs",
+      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/rustfs/rustfs",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/supabase/supabase",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/coder/coder",
+      "source": "GitHub Trending"
+    }
+  ]
+}
