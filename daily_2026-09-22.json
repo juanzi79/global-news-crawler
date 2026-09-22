@@ -1,0 +1,193 @@
+{
+  "date": "2026-09-22",
+  "news": [
+    {
+      "title": "Xiaomi MiMo v2.6",
+      "link": "https://mimo.xiaomi.com/mimo-v2-6",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Claude Status – Elevated errors for multiple models",
+      "link": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Spymarks, Not Watermarks",
+      "link": "https://brand.io/article/spymarks/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "I don&#x27;t want to read what you didn&#x27;t write",
+      "link": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Transformers Explained Visually",
+      "link": "https://poloclub.github.io/transformer-explainer/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "What Sun got wrong",
+      "link": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "NASA’s Mars Sample Return mission is dead",
+      "link": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Attention is all you have",
+      "link": "https://alicegg.tech/2026/09/21/attention",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "link": "https://linear.app/now/ci-bottleneck-reworked",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Divide by depth for instant 3D",
+      "link": "https://gabrieloc.com/2026/09/15/perspective.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Looking forward to Git 2.56 – and 3.0",
+      "link": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "First Shader from Zero in Godot 4",
+      "link": "https://www.gdquest.com/library/first_shader_godot4_portal/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "More Floating Point Alternatives",
+      "link": "https://wizardzines.com/comics/floating-point-alternatives/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How do traffic signals work? (2019)",
+      "link": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/BuilderIO/agent-native",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars": "0",
+      "link": "https://github.com/trycua/cua",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/Open-Dev-Society/OpenStock",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/akitaonrails/ai-memory",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/coder/coder",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/financial-services",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cloudflare/quiche",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/cloudflare/quiche",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mvt-project/mvt",
+      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/mvt-project/mvt",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "zhouxiaoka/autoclip",
+      "description": "科技爱好者周刊，每周五发布",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/zhouxiaoka/autoclip",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ruanyf/weekly",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/ruanyf/weekly",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "yynxxxxx/Codex-X",
+      "description": "N/A",
+      "language": "N/A",
+      "stars": "0",
+      "link": "https://github.com/yynxxxxx/Codex-X",
+      "source": "GitHub Trending"
+    }
+  ]
+}
