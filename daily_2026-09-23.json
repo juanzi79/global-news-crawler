@@ -1,0 +1,161 @@
+{
+  "date": "2026-09-23",
+  "news": [
+    {
+      "title": "GPT-6 Sol and Luna",
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Claude Opus 5.5",
+      "link": "https://www.anthropic.com/claude-opus-5-5",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The new CC, an AI agent built for families",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "&#x27;We hacked the FBI:&#x27; Hackers say they have data on all FBI employees",
+      "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+      "link": "https://github.com/xCuri0/ReBarUEFI",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here&#x27;s FoxPro revived",
+      "link": "https://foxscript.org/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "What California is learning from solar panels built over irrigation canals",
+      "link": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "SAML: A fractal of bad design",
+      "link": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "link": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+      "link": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How did AMD Ryzen get 50% faster in two years?",
+      "link": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Side-stepping the Secretary Problem, unwittingly",
+      "link": "https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The current balance of power in open models",
+      "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "anthropics/financial-services",
+      "description": "Agent Substrate: the core system",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/financial-services",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "agent-substrate/substrate",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/agent-substrate/substrate",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "dream-num/univer",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/dream-num/univer",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/davila7/claude-code-templates",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "google/ax",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/google/ax",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mvt-project/mvt",
+      "description": "OpenRouter for agent tools. Join community here: <a href=\"https://discord.gg/6mQYYfFMAn\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://discord.gg/6mQYYfFMAn</a>",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/mvt-project/mvt",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "superdesigndev/treg",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/superdesigndev/treg",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "browser-use/video-use",
+      "description": "N/A",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/browser-use/video-use",
+      "source": "GitHub Trending"
+    }
+  ]
+}
