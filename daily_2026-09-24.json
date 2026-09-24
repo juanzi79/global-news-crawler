@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-24",
+  "news": [
+    {
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "link": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Meta VR Glasses",
+      "link": "https://www.meta.com/vr-glasses/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "VSCode&#x27;s SSH Agent Is Bananas (2025)",
+      "link": "https://fly.io/blog/vscode-ssh-wtf/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "link": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "link": "https://artificialanalysis.ai/models/mercury-2-5",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The &quot;Windows XP Box&quot; (2003)",
+      "link": "https://www.mini-itx.com/projects/windowsxpbox/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Fixing the Portobello Police Station Clock",
+      "link": "https://pointinthecloud.com/2026-04-11-211700.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "FLAWED&#x27;s Flaws and What This Means for Industry Research",
+      "link": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "link": "https://blog.cloudflare.com/vary-support/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
+      "link": "https://huggingface.co/apple/LensVLM-9B",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The mystery animal on an ancient god&#x27;s head",
+      "link": "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Italian parliament votes for return to nuclear energy",
+      "link": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: An open-source manufacturing ERP&#x2F;MES&#x2F;QMS",
+      "link": "https://carbon.ms/self-hosted",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A brief history of Windows scroll bar shortcuts",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "anthropics/financial-services",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/financial-services",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "google/ax",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/google/ax",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "description": "A framework for building agentic apps",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/davila7/claude-code-templates",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "BuilderIO/agent-native",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/BuilderIO/agent-native",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "dream-num/univer",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/dream-num/univer",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "description": "Agent Substrate: the core system",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/Open-Dev-Society/OpenStock",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "agent-substrate/substrate",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/agent-substrate/substrate",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "strands-agents/harness-sdk",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: <a href=\"https://clianything.cc/\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://clianything.cc/</a>",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/strands-agents/harness-sdk",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "description": "OpenRouter for agent tools. Join community here: <a href=\"https://discord.gg/6mQYYfFMAn\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://discord.gg/6mQYYfFMAn</a>",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/HKUDS/CLI-Anything",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "superdesigndev/treg",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/superdesigndev/treg",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/pbakaus/impeccable",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mvt-project/mvt",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/mvt-project/mvt",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+      "language": "C",
+      "stars": "0",
+      "link": "https://github.com/DeusData/codebase-memory-mcp",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "harry7557558/spirula-studio",
+      "description": "Edit videos with coding agents",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/harry7557558/spirula-studio",
+      "source": "GitHub Trending"
+    }
+  ]
+}
