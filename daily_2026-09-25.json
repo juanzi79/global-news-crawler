@@ -1,0 +1,209 @@
+{
+  "date": "2026-09-25",
+  "news": [
+    {
+      "title": "F-Droid 2.0",
+      "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "link": "https://bastardica.mitpit.com",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "link": "https://github.com/devdotfast/whiteboard",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Why is the liver so weirdly regenerative?",
+      "link": "https://dynomight.substack.com/p/liver",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Fearless SIMD v1.0",
+      "link": "https://linebender.org/blog/fearless-simd-1-0/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "2DWillNeverDie",
+      "link": "https://2dwillneverdie.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "link": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
+      "link": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Toyota is taking the Corolla electric",
+      "link": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Writing Parquet files using Haskell",
+      "link": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+      "link": "https://koi.rest",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Two-tier encryption in the UK",
+      "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "California is chasing wealth that has feet",
+      "link": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/vectorize-io/hindsight",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/dream-num/univer",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/google/ax",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/NVIDIA/Model-Optimizer",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "FxEmbed/FxEmbed",
+      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/FxEmbed/FxEmbed",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: <a href=\"https://clianything.cc/\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://clianything.cc/</a>",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/financial-services",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/HKUDS/CLI-Anything",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mvt-project/mvt",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/mvt-project/mvt",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "strands-agents/harness-sdk",
+      "description": "An offline-first photo manager for large local libraries",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/strands-agents/harness-sdk",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "julyx10/lap",
+      "description": "OpenRouter for agent tools. Join community here: <a href=\"https://discord.gg/6mQYYfFMAn\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://discord.gg/6mQYYfFMAn</a>",
+      "language": "Vue",
+      "stars": "0",
+      "link": "https://github.com/julyx10/lap",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "superdesigndev/treg",
+      "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/superdesigndev/treg",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "leejet/stable-diffusion.cpp",
+      "description": "N/A",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/leejet/stable-diffusion.cpp",
+      "source": "GitHub Trending"
+    }
+  ]
+}
