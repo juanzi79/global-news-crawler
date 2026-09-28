@@ -1,0 +1,169 @@
+{
+  "date": "2026-09-28",
+  "news": [
+    {
+      "title": "Self-parking car using genetic algorithm (2021)",
+      "link": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "When did Google get so weird?",
+      "link": "https://sancho.bearblog.dev/google-weird/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Ember-1",
+      "link": "https://fireworks.ai/blog/ember-1",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Alan Kay&#x27;s answer to “Did the ENIAC have a BIOS”?",
+      "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "There is more to code review than (automatable) detection",
+      "link": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The state of SIMD in Rust in 2026",
+      "link": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Lunar Terminator Paradox",
+      "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+      "link": "https://loficities.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Panda, the world&#x27;s first personal AI computer",
+      "link": "https://pandax1.com",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
+      "link": "https://github.com/dashersw/coyopedal",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Don&#x27;t couple your Go code to GitHub",
+      "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Self-Hosting on the Dark Web",
+      "link": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Research finds 485 chemicals in US pesticide products linked to breast cancer",
+      "link": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Imp is a full port of DSPy to the BEAM",
+      "link": "https://github.com/deepfates/imp",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "What I did at Recurse Center",
+      "link": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/paperclipai/paperclip",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/vectorize-io/hindsight",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "InfinityLoop1308/PipePipe",
+      "description": "An open-source Android app to let you browse YouTube and other services freely.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/InfinityLoop1308/PipePipe",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "vercel-labs/scriptc",
+      "description": "TypeScript-to-Native Compiler",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/vercel-labs/scriptc",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/mvschwarz/openrig",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/dream-num/univer",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "language": "C",
+      "stars": "0",
+      "link": "https://github.com/willfaust/Madeira",
+      "source": "GitHub Trending"
+    }
+  ]
+}
