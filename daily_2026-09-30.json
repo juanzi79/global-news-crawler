@@ -1,0 +1,209 @@
+{
+  "date": "2026-09-30",
+  "news": [
+    {
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "link": "https://github.com/ninjahawk/livenerf",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "link": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Vermont replacing power plants with home batteries",
+      "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "America.gov",
+      "link": "https://america.gov/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "link": "https://space.bl2.net/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "When oil prices spike, where does the money go?",
+      "link": "https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "link": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Needed 1+1, built a functional programming language",
+      "link": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Language models for text classification: From bag-of-words to Jev",
+      "link": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "PS5 Relapse Exploit",
+      "link": "https://github.com/ntfargo/Relapse-Exploit",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "NAND-16: a computer built from 277,248 NAND gates",
+      "link": "https://somethingbig.ai/computer",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "We’re forgetting what darkness feels like",
+      "link": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Backblaze drive stats for Q2 2026",
+      "link": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "link": "https://jagi.studio/posts/phyllotaxis/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/vectorize-io/hindsight",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/paperclipai/paperclip",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/t8y2/dbx",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/mvschwarz/openrig",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/oblien/openship",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "language": "HTML",
+      "stars": "0",
+      "link": "https://github.com/averygan/reclip",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cs341-illinois/coursebook",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "language": "TeX",
+      "stars": "0",
+      "link": "https://github.com/cs341-illinois/coursebook",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/VectifyAI/PageIndex",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "language": "C",
+      "stars": "0",
+      "link": "https://github.com/willfaust/Madeira",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/dream-num/univer",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "rakyll/hey",
+      "description": "HTTP load generator, ApacheBench (ab) replacement",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/rakyll/hey",
+      "source": "GitHub Trending"
+    }
+  ]
+}
