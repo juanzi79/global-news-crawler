@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-02",
+  "news": [
+    {
+      "title": "Pi 1.0",
+      "link": "https://earendil.com/posts/pi-1-0/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "link": "https://lwn.net/Articles/1097401/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "link": "https://blog.cloudflare.com/clef-decision-models/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "SvelteKit 3",
+      "link": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "link": "https://news.ycombinator.com/item?id=49922569",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Pi Durable",
+      "link": "https://earendil.com/posts/pi-durable/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+      "link": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "StreetComplete on iOS is now in public beta",
+      "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD&#x2F;Intel&#x2F;Nvidia",
+      "link": "https://github.com/Vibra-Ingenn/Janus",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+      "link": "https://www.cssbed.com",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Git 3.0&#x27;s upcoming SHA-256 default will be a costly mistake",
+      "link": "https://blog.gitbutler.com/git-3-sha-256",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "RIP, vector database",
+      "link": "https://turbopuffer.com/blog/rip-vector-database",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "ArXiv&#x27;s Updated Rate Limit Policy",
+      "link": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+      "link": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/firebase/firebase-ios-sdk",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/mvschwarz/openrig",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/cursor/plugins",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/earendil-works/pi",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "tile-ai/tilelang",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/tile-ai/tilelang",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/pablostanley/yoinks",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/HunxByts/GhostTrack",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/pbakaus/impeccable",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Friedrich-M/UniMate",
+      "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Friedrich-M/UniMate",
+      "source": "GitHub Trending"
+    }
+  ]
+}
