@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-03",
+  "news": [
+    {
+      "title": "Things That Apparently Cause Cancer",
+      "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Forgetful CPU (Linux on M4)",
+      "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Court agrees with EFF: Utah&#x27;s VPN law demands a technical impossibility",
+      "link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Hair Loss Was Just the Start. Ozempic Users Are Also Reporting Nail Trouble",
+      "link": "https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+      "link": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple Pass Designer",
+      "link": "https://developer.apple.com/pass-designer/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "link": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "link": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Muse Gadgets",
+      "link": "https://gadgets.muse.ai",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Loss of cell identity drives human aging: Two new papers",
+      "link": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "link": "https://www.newgrounds.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "link": "https://dwarfstar.sh/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Updates to Full Disk Access in macOS",
+      "link": "https://developer.apple.com/news/?id=p6zjojqw",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/JuliusBrussee/caveman",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/pbakaus/impeccable",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/coreyhaines31/marketingskills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/google/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "getsentry/sentry",
+      "description": "Developer-first error tracking and performance monitoring",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/getsentry/sentry",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "C",
+      "stars": "0",
+      "link": "https://github.com/colbymchenry/codegraph",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/cursor/plugins",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/mvschwarz/openrig",
+      "source": "GitHub Trending"
+    }
+  ]
+}
