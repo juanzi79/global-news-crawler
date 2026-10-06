@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-06",
+  "news": [
+    {
+      "title": "Beam: Reflection&#x27;s 501B open-weight model",
+      "link": "https://reflection.ai/blog/introducing-beam",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Example.com just launched the biggest redesign in decades",
+      "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Find the flattest route between any two points in SF",
+      "link": "https://flattensf.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "link": "https://qlabs.sh/research/dust",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AI tutoring with Khanmigo in a two-year school experiment",
+      "link": "https://edworkingpapers.com/ai26-1551",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Friendship ended with Deno, now Node is my best friend",
+      "link": "https://dbushell.com/2026/10/03/deno-to-node/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "ChatGPT is adding real cartoonists&#x27; signatures to fake New Yorker cartoons",
+      "link": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "An Algorithmic Failure Beneath the Secret Ballot",
+      "link": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Samon: Designing a Zen Garden Raking Puzzle",
+      "link": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Web Search API",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Competitive Programmer&#x27;s Handbook (2018) [pdf]",
+      "link": "https://cses.fi/book/book.pdf",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Worth Building",
+      "link": "https://armstr.ng/writing/worth-building",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Ephemeral Testing",
+      "link": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/tester-army/e2e",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "michael-denyer/pstack-claude",
+      "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/michael-denyer/pstack-claude",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/earthtojake/text-to-cad",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/pingdotgg/t3code",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "boykopovar/AnyPS5",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/boykopovar/AnyPS5",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/calesthio/OpenMontage",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "caddyserver/caddy",
+      "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/caddyserver/caddy",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "DuarteSantos8/openGym",
+      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/DuarteSantos8/openGym",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cloudflare/cloudflare-os",
+      "description": "Stremio - Freedom to Stream",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/cloudflare/cloudflare-os",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Stremio/stremio-web",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/Stremio/stremio-web",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "description": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. <a href=\"https://youtube.com/shorts/RaxszOUMi8E?feature=share\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://youtube.com/shorts/RaxszOUMi8E?feature=share</a>",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/msitarzewski/agency-agents",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "M-Abozaid/esp32-c3-adblock",
+      "description": "N/A",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "source": "GitHub Trending"
+    }
+  ]
+}
