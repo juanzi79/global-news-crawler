@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-10",
+  "news": [
+    {
+      "title": "REA Reverse – Engineer Anything",
+      "link": "https://rea.tools/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Cloudflare acquires Deno",
+      "link": "https://deno.com/blog/cloudflare",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Triple-A Minesweeper",
+      "link": "https://minesweeper.mikelacher.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+      "link": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Our $445M Series D",
+      "link": "https://oxide.computer/blog/our-445m-series-d",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "link": "https://carrierexplode.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Sorry, I&#x27;m in a meeting",
+      "link": "https://iminafleeting.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "link": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "link": "https://typesafe.ai/blog/series-ai",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Compiling Rust to readable C with Eurydice",
+      "link": "https://lwn.net/Articles/1055211/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025",
+      "link": "https://www.nber.org/papers/w35854",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Proton Drive for Linux",
+      "link": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Atari Falcon",
+      "link": "https://atarimuseum.nl/atari-falcon/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/morluto/rea",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/boykopovar/AnyPS5",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": "0",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "BerriAI/litellm",
+      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/BerriAI/litellm",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/storytold/artcraft",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Robbyant/lingbot-map",
+      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Robbyant/lingbot-map",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "twostraws/SwiftUI-Agent-Skill",
+      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "language": "N/A",
+      "stars": "0",
+      "link": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "source": "GitHub Trending"
+    }
+  ]
+}
