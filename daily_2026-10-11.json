@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-11",
+  "news": [
+    {
+      "title": "WallHop – 12ft.io is gone, so I built a replacement",
+      "link": "https://wallhop.io/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Build your own decision model",
+      "link": "https://nishtahir.com/build-your-own-decision-model/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "2D Vehicles",
+      "link": "https://patkerr.co.uk/2d-vehicles/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A city-building game in which the city would prefer you didn&#x27;t",
+      "link": "https://housing.over.pizza/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Generative AI scandal has come to one of Nikon&#x27;s competitions",
+      "link": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "PSPi 6 – Raspberry Pi in a PSP",
+      "link": "https://github.com/othermod/PSPi-Version-6",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Lightbulb Computer",
+      "link": "https://lightbulbcomputer.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Nix wrote half of my debugger",
+      "link": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Knuth reward check",
+      "link": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Five months treating bugs like patients and coding agents like a medical team",
+      "link": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Why DuckDB 2.0 is faster",
+      "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare&#x27;s free tier",
+      "link": "https://github.com/rociiu/talorys",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Veda: The First Agentic Hobby Operating System",
+      "link": "https://github.com/vahmoh25/Veda",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+      "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/morluto/rea",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/boykopovar/AnyPS5",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/storytold/artcraft",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": "0",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars": "0",
+      "link": "https://github.com/flutter/flutter",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/tensorflow/tensorflow",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/hugohe3/ppt-master",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/pytorch/pytorch",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/huggingface/transformers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "N/A",
+      "stars": "0",
+      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "source": "GitHub Trending"
+    }
+  ]
+}
