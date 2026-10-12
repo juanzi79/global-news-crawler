@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-12",
+  "news": [
+    {
+      "title": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "link": "https://github.com/storytold/wordcraft",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Whatever became of holography? (2011)",
+      "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "link": "https://nanolathe.gg",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Fingerprints are the new cookies",
+      "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Cartographers of North Korea (2019)",
+      "link": "https://cartographers-nk.wonyoung.so/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Recursive self-improvement through collective intelligence",
+      "link": "https://pub.sakana.ai/mass/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "link": "https://twitter.com/karpathy/status/2109361546505966046",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Vectorized CLZ and CTZ",
+      "link": "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Illustration Beyond Proof",
+      "link": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Google is illegaly cutting forest to build data centers",
+      "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Tattoos you can turn on and off",
+      "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Local Indexing to reduce tool calling and token usage",
+      "link": "https://tedhaley.ca/pensieve/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Passkeys are a trap",
+      "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos",
+      "link": "https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/morluto/rea",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/boykopovar/AnyPS5",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/storytold/artcraft",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": "0",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/pytorch/pytorch",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": "0",
+      "link": "https://github.com/lyogavin/airllm",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": "0",
+      "link": "https://github.com/chrislgarry/Apollo-11",
+      "source": "GitHub Trending"
+    }
+  ]
+}
