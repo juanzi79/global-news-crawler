@@ -1,0 +1,169 @@
+{
+  "date": "2026-10-13",
+  "news": [
+    {
+      "title": "The baffling intelligence of a single cell (2024)",
+      "link": "https://jsomers.net/e-coli-chemotaxis/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "GLM-Legal",
+      "link": "https://z.ai/blog/glm-legal",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A Modern Web App in C",
+      "link": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "link": "https://arxiv.org/abs/2610.13928",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Who is vfmaddrnd231pd?",
+      "link": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+      "link": "https://www.argmin.net/p/faster-fourier-transforms",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "link": "https://github.com/prabanta-dev/janas",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Making big downloads resumable in Firefox",
+      "link": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Auto Research: Integer multiplication below n log n",
+      "link": "https://app.getsupers.com/auto-research",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AI is a tool and using it well takes skill",
+      "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "link": "https://github.com/h0m3us3r/w1700k-sdr",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "link": "https://news.ycombinator.com/item?id=50059096",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "China Overtakes U.S. For First Time as Top Spender on R&amp;D in 2024",
+      "link": "https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/morluto/rea",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/bilawalsidhu/gods-eye-view",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/storytold/artcraft",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/open-webui/open-webui",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": "0",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": "0",
+      "link": "https://github.com/lyogavin/airllm",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/microsoft/BitNet",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Alishahryar1/free-claude-code",
+      "source": "GitHub Trending"
+    }
+  ]
+}
