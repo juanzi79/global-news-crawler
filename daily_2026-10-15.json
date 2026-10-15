@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-15",
+  "news": [
+    {
+      "title": "Things to know when you get cancer – 2026 Edition",
+      "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "OpenCode 2.0",
+      "link": "https://anoma.ly/notes/opencode-2-0/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive",
+      "link": "https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Tiny Little Office",
+      "link": "https://tinylittleoffice.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "link": "https://typesafe.ai/blog/jev-1-14",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Passkeys are not a trap",
+      "link": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Do dentists know what they&#x27;re doing?",
+      "link": "https://mapwriting.substack.com/p/dentists",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Americans&#x27; social activity has steeply declined in the past 30 years",
+      "link": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Better HTTP&#x2F;1 connection reuse in Go 1.27",
+      "link": "https://go.dev/blog/http-connection-reuse",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Fancy Curl Sites",
+      "link": "https://nytpu.com/gemlog/2026-03-18",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "your C is not standard C",
+      "link": "https://sebsite.pw/w/20261012-notstdc.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Ask HN: CAD for wood working with LLM support?",
+      "link": "https://news.ycombinator.com/item?id=50067325",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Petal, open-source CoScreen&#x2F;ScreenHero finally free",
+      "link": "https://petal.live/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/morluto/rea",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/nvm-sh/nvm",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: <a href=\"https://clianything.cc/\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://clianything.cc/</a>",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/HKUDS/CLI-Anything",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ifixai-ai/iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/ifixai-ai/iFixAi",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/vxcontrol/pentagi",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/rust-lang/rust",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "language": "Swift",
+      "stars": "0",
+      "link": "https://github.com/xtool-org/xtool",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ntdevlabs/tiny11builder",
+      "description": "WinUI app for building smaller, customized Windows 11 images.",
+      "language": "C#",
+      "stars": "0",
+      "link": "https://github.com/ntdevlabs/tiny11builder",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars": "0",
+      "link": "https://github.com/NationalSecurityAgency/ghidra",
+      "source": "GitHub Trending"
+    }
+  ]
+}
