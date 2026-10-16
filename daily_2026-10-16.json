@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-16",
+  "news": [
+    {
+      "title": "Tesla Roadster",
+      "link": "https://www.tesla.com/roadster",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Muse Spark Open",
+      "link": "https://research.meta.ai/blog/muse-spark-open",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "RPKI now protects 70% of internet routes",
+      "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "What I Self-Host",
+      "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Neural networks are clean",
+      "link": "https://already-clean.goodfire.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+      "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple routed a graphite pipe through the iPhone Duo&#x27;s hinge to dissipate heat",
+      "link": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "link": "https://github.com/fyzugx/DEsk",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "BeBox is a Haiku application that emulates Be Inc.&#x27;s BeBox",
+      "link": "https://github.com/johnrash/bebox",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Jev meets the Trolley Problem",
+      "link": "https://zachlandes.com/trolley-problem/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+      "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "New Withings Users Must Pay $99&#x2F;Year for Apple Health Syncing",
+      "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Krea 3 – An image model built for editing at scale",
+      "link": "https://www.krea.ai/krea-3",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Major ICQ security hole (1998)",
+      "link": "https://opennet.ru/base/maillist/169.txt.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/morluto/rea",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/claude-plugins-official",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/JuliusBrussee/caveman",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars": "0",
+      "link": "https://github.com/NationalSecurityAgency/ghidra",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "lightseekorg/tokenspeed",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/lightseekorg/tokenspeed",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "xerj-org/xerj",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/xerj-org/xerj",
+      "source": "GitHub Trending"
+    }
+  ]
+}
