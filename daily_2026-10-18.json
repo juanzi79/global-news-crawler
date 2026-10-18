@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-18",
+  "news": [
+    {
+      "title": "Zuckerberg&#x27;s Meta Takes Down No Kings Instagram During Protest Day",
+      "link": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "link": "https://www.nature.com/articles/d41586-026-03266-x",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Dam removals are bringing fish back across the northeastern United States",
+      "link": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Furifont, a Japanese font that shows furigana",
+      "link": "https://furifont.antfu.me/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "link": "https://pele.run/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "link": "https://github.com/antirez/c64-hw-simulator",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Making chicken transparent using Dorito dust",
+      "link": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Types of types: Haskell&#x27;s Kind system",
+      "link": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Gold is now the top U.S. export",
+      "link": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "link": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Source code of the Estonian online voting system",
+      "link": "https://github.com/valimised/ivxv",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+      "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Custom server to revive neato bots",
+      "link": "https://github.com/vacuula/vacuula",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "link": "https://celphase.github.io/duck-pond/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/claude-plugins-official",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/MadsLorentzen/ai-job-search",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: <a href=\"https://clianything.cc/\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://clianything.cc/</a>",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/HKUDS/CLI-Anything",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/akitaonrails/ai-memory",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "android/skills",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "Kotlin",
+      "stars": "0",
+      "link": "https://github.com/android/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "stablyai/orca",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/stablyai/orca",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/anthropics/claude-code",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "description": "The open source coding agent.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/anomalyco/opencode",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "xerj-org/xerj",
+      "description": "N/A",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/xerj-org/xerj",
+      "source": "GitHub Trending"
+    }
+  ]
+}
