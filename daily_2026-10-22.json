@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-22",
+  "news": [
+    {
+      "title": "mitmproxy adds --emudhra option",
+      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Railway Security Disclosure",
+      "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "There isn&#x27;t an easy exploit for this PHP vulnerability",
+      "link": "https://eliastaylor.com/noexploit/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Today&#x27;s PHP security release, and how we&#x27;re strengthening security",
+      "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "GitLab Critical Patch Release",
+      "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Google&#x27;s Rust Style Guide",
+      "link": "https://google.github.io/styleguide/rustguide.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "No More Icons in Every Menu by Default",
+      "link": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+      "link": "https://www.bbc.com/news/articles/cp814l80pw2o",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The era of speedball capitalism has dawned",
+      "link": "https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Chain of Thought for Humans",
+      "link": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Beyond the &amp;",
+      "link": "https://lwn.net/Articles/1096028/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "link": "https://openai.com/index/openai-models-google-cloud/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/vllm-project/vllm",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/stablyai/orca",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/headroomlabs-ai/headroom",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Comfy-Org/ComfyUI",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/supabase/supabase",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/twentyhq/twenty",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/shiyu-coder/Kronos",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "strelov1/freehire",
+      "description": "freehire — the open-source search engine for job seekers",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/strelov1/freehire",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/akitaonrails/ai-memory",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Graphify-Labs/graphify",
+      "source": "GitHub Trending"
+    }
+  ]
+}
