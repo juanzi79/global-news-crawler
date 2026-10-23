@@ -1,0 +1,169 @@
+{
+  "date": "2026-10-23",
+  "news": [
+    {
+      "title": "Docker is weird",
+      "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "link": "https://www.anthropic.com/research/formal-verification",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "link": "https://quad9.net/news/blog/au-revoir-france/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The foolishness of &quot;natural language programming&quot; (1978)",
+      "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Woman faces six years in prison over Cash App account she never opened",
+      "link": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Every AI model has the same &quot;controversial&quot; take on humans",
+      "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AI compute is the new oil–and needs a new market",
+      "link": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "link": "https://www.taler.net/en/news/2026-13.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Run full iOS 16.5 firmware on Android Devices",
+      "link": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Secret Life of Circuits is now in stock everywhere",
+      "link": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Jailbreaking the Switch 2",
+      "link": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "What Is Gridifcation",
+      "link": "https://musicalform.substack.com/p/what-is-gridifcation",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+      "link": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Mapping the Northern Sky",
+      "link": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": "0",
+      "link": "https://github.com/php/php-src",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Graphify-Labs/graphify",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/supabase/supabase",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/fastapi/fastapi",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/luongnv89/claude-howto",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Meloong-Git/PCL",
+      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "language": "Visual Basic .NET",
+      "stars": "0",
+      "link": "https://github.com/Meloong-Git/PCL",
+      "source": "GitHub Trending"
+    }
+  ]
+}
