@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-24",
+  "news": [
+    {
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+      "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple Music 404 Not Found",
+      "link": "https://music.apple.com/this-url-doesnt-exist",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "CVE Tracker",
+      "link": "https://cve.0xosprey.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "link": "https://block.xyz/dessa",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Today, we hacked what we&#x27;d set out to hack: the iPhone",
+      "link": "https://blog.calif.io/p/iphone",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "link": "https://edjefferson.com/localwiki/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Real Kevin Bacon",
+      "link": "https://pudding.cool/2026/10/kevin-bacon/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Canadians are running out of time to oppose Bill C-22",
+      "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Bringing uv and ty together",
+      "link": "https://astral.sh/blog/uv-ty-integration",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "link": "https://corgi.computer/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "C vs. C#: racing VLC&#x27;s Gaussian blur",
+      "link": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
+      "link": "https://e360.yale.edu/features/2026-film-contest-second-place-cerrado",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Air Purifiers as White Noise Machines",
+      "link": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": "0",
+      "link": "https://github.com/php/php-src",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/Renhuai123/ziwei-doushu",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/SnailSploit/Claude-Red",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/OpenBMB/VoxCPM",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/nodejs/node",
+      "source": "GitHub Trending"
+    }
+  ]
+}
