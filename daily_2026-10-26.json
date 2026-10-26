@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-26",
+  "news": [
+    {
+      "title": "Dolly Parton&#x27;s Imagination Library",
+      "link": "https://imaginationlibrary.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "F-Zero X on Nintendo 3DS",
+      "link": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "link": "https://charliegerard.dev/blog/overgrown-extension/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Attention Is Not What You Need",
+      "link": "https://arxiv.org/abs/2512.19428",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Why I Am a Programmer",
+      "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "What goes into making an animated film?",
+      "link": "https://www.disneyanimation.com/process/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The State of Context Engineering",
+      "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "link": "https://lynchlab.net/llm-skin-cancer",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Lula wins election after final votes tallied",
+      "link": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "link": "https://minimaxir.com/2026/10/cheap-llms/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Making the Buddha Head from Merv Whole Again",
+      "link": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Where the Romans Fought (interactive map)",
+      "link": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "link": "https://talkweb.eu/openweb/4558/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Eunice is almost here",
+      "link": "https://armincat.com/articles/eunice-is-almost-here",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/makecindy/cindy",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": "0",
+      "link": "https://github.com/Nutlope/hallmark",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/pbakaus/impeccable",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/pollen-robotics/microduck",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/Renhuai123/ziwei-doushu",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/JetBrains/thinkrail",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "coollabsio/coolify",
+      "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+      "language": "PHP",
+      "stars": "0",
+      "link": "https://github.com/coollabsio/coolify",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/AgriciDaniel/claude-seo",
+      "source": "GitHub Trending"
+    }
+  ]
+}
