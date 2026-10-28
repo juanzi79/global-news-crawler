@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-28",
+  "news": [
+    {
+      "title": "Genie 4",
+      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Ghostty 1.4",
+      "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+      "link": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Git for US Legislation",
+      "link": "https://lexifina.com/blog/git-for-the-us-code",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Early progress on accelerating drug development with Claude",
+      "link": "https://www.anthropic.com/research/early-progress-drug-development",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "link": "https://tailscale.com/ssh-investigation-update",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "link": "https://www.brangus.io/survival-llm",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "81 Jokes for the ZX81",
+      "link": "https://spelk.press/gb/products/81-jokes-for-the-zx81",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Tabletop Whale is an original science illustration blog",
+      "link": "https://tabletopwhale.com",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "New 14‑inch MacBook Pro with M6",
+      "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Python&#x27;s experimental JIT to be removed",
+      "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "An examination of lost firefly species of the US and Canada",
+      "link": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "New iMac with M6",
+      "link": "https://www.apple.com/imac/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Classification of Finite Simple Groups Formalized in Lean",
+      "link": "https://cfsg.axiommath.ai/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "elayadesign/ai-design-skills",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": "0",
+      "link": "https://github.com/elayadesign/ai-design-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/Nutlope/hallmark",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "nightly-labs/openbot",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/nightly-labs/openbot",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/pbakaus/impeccable",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "makecindy/cindy",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/makecindy/cindy",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "gitroomhq/postiz-app",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/gitroomhq/postiz-app",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. <a href=\"https://deeptutor.info/\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://deeptutor.info/</a>.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/HKUDS/DeepTutor",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "JetBrains/thinkrail",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "language": "N/A",
+      "stars": "0",
+      "link": "https://github.com/JetBrains/thinkrail",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "togg53192-cmd/jailbreaks",
+      "description": "N/A",
+      "language": "N/A",
+      "stars": "0",
+      "link": "https://github.com/togg53192-cmd/jailbreaks",
+      "source": "GitHub Trending"
+    }
+  ]
+}
