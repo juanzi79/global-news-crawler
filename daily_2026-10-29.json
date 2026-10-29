@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-29",
+  "news": [
+    {
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "link": "https://divagr.com/blog/qwenputer",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "link": "https://nullpt.rs/fingerprinting-bioweapons",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A Health Update",
+      "link": "https://furbo.org/2026/10/28/a-health-update/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "CNC Stone Carving",
+      "link": "https://carmelitegothic.com/cnc-stone-carving/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Gemini 4 Carbon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Formlabs Studio 1 $699 Resin Printer",
+      "link": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "link": "https://www.circuithub.com/post/unveiling-the-grid",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Human-enhanced tsunami hazard in large lakes",
+      "link": "https://www.nature.com/articles/s41467-026-78272-8",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "link": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Nixpkgs for the Front End Impaired",
+      "link": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Why birds can fly over Mount Everest (2020)",
+      "link": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The case of the 9 bit AES key",
+      "link": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "link": "https://surgehq.ai/blog/dayjob-tax",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How we made our MMDB files a 33% smaller",
+      "link": "https://ipinfo.io/blog/how-made-mmdb-files-smaller",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/JetBrains/thinkrail",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "elayadesign/ai-design-skills",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/elayadesign/ai-design-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. <a href=\"https://deeptutor.info/\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://deeptutor.info/</a>.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/HKUDS/DeepTutor",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "macro-inc/macro",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": "0",
+      "link": "https://github.com/macro-inc/macro",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/Nutlope/hallmark",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/pbakaus/impeccable",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "makecindy/cindy",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/makecindy/cindy",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "nightly-labs/openbot",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/nightly-labs/openbot",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "togg53192-cmd/jailbreaks",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/togg53192-cmd/jailbreaks",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "hmjz100/LinkSwift",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/hmjz100/LinkSwift",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "expo/skills",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Jupyter Notebook",
+      "stars": "0",
+      "link": "https://github.com/expo/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "description": "One has no future if one couldn't teach themself.",
+      "language": "N/A",
+      "stars": "0",
+      "link": "https://github.com/ruvnet/RuView",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "xiaolai/the-craft-of-selfteaching",
+      "description": "N/A",
+      "language": "N/A",
+      "stars": "0",
+      "link": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "source": "GitHub Trending"
+    }
+  ]
+}
