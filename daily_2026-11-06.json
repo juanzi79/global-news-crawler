@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-06",
+  "news": [
+    {
+      "title": "Claude Code sends your email address to websites",
+      "link": "https://github.com/anthropics/claude-code/issues/107757",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "sshole",
+      "link": "https://sshhole.com",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "link": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "link": "https://github.com/dsx-ai-factory/nvke",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Inkling 2 Small",
+      "link": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "link": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Hackintosh Reborn",
+      "link": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Closed AI models dominate the price-performance frontier",
+      "link": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Window Sweaters",
+      "link": "https://github.com/saragordic/window-sweaters",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
+      "link": "https://firenook.dev/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Castration extends life span in mice",
+      "link": "https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Claude was faster and cheaper. We took the scenic route anyway",
+      "link": "https://blog.grainulation.org/verify-then-vote/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "link": "https://github.com/rivet-dev/rivet",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+      "link": "https://github.com/matthewmrichter/mooftcp",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/NVIDIA/auto-ontology",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/garrytan/gstack",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Usagi-org/ai-goofish-monitor",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: <a href=\"https://discord.gg/EMgGbDceNQ\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://discord.gg/EMgGbDceNQ</a> and follow here for daily tips and tricks: <a href=\"https://x.com/Scrapling_dev\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://x.com/Scrapling_dev</a>",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/D4Vinci/Scrapling",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/vercel-labs/agent-desktop",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/max-sixty/worktrunk",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": "0",
+      "link": "https://github.com/lz4/lz4",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/google/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/vercel-labs/agent-browser",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "scenario-labs/skills",
+      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/scenario-labs/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/ConardLi/garden-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/microsoft/VibeVoice",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "floci-io/floci",
+      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "language": "Java",
+      "stars": "0",
+      "link": "https://github.com/floci-io/floci",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "description": "N/A",
+      "language": "C#",
+      "stars": "0",
+      "link": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "source": "GitHub Trending"
+    }
+  ]
+}
