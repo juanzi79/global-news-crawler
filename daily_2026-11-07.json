@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-07",
+  "news": [
+    {
+      "title": "Libghostty 1.0",
+      "link": "https://mitchellh.com/writing/libghostty-1-0",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "I Toured Unitree&#x27;s Factory. I&#x27;m More Bullish on the West",
+      "link": "https://josef.cn/blog/unitree",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Tesla to wind down Cybertruck production",
+      "link": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+      "link": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "link": "https://pwn.ai/blog/firecracker-escape",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "link": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AI is dramatically accelerating AI research",
+      "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Can GROUP BY still be optimized after all these years?",
+      "link": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Panthera: Ampere&#x27;s CPU Performance Model",
+      "link": "https://github.com/AmpereComputing/panthera",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+      "link": "https://github.com/andrewboldi/tmux-restore",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "First steps in bare-metal programming using UEFI",
+      "link": "https://kevinboone.me/efitest_index.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Sodium-ion batteries approach cost parity with LFP",
+      "link": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "link": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/zed-industries/zed",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/NVIDIA/auto-ontology",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars": "0",
+      "link": "https://github.com/rails/rails",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "stars": "0",
+      "link": "https://github.com/mpv-player/mpv",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/rust-lang/rust",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "react/react",
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/react/react",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "angular/angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/angular/angular",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": "0",
+      "link": "https://github.com/symfony/symfony",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/prometheus/prometheus",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/google/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "microsoft/vscode",
+      "description": "Visual Studio Code",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/microsoft/vscode",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "nushell/nushell",
+      "description": "A new type of shell",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/nushell/nushell",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/etcd-io/etcd",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "openssl/openssl",
+      "description": "General purpose TLS and crypto library",
+      "language": "C",
+      "stars": "0",
+      "link": "https://github.com/openssl/openssl",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    }
+  ]
+}
