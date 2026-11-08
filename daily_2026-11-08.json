@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-08",
+  "news": [
+    {
+      "title": "The end of Microsoft Research&#x27;s AI Frontiers group",
+      "link": "https://hunch.net/?p=13764006",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "link": "https://blog.bosscher.ch/posts/openstick/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Making any integer with four 2s (2025)",
+      "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Claude Code&#x27;s &quot;Don&#x27;t Ask Again&quot; exposes passwords in 1,122 public GitHub files",
+      "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "GitHub New pull request overview page in public preview",
+      "link": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Need for Speed Underground 2 online in the browser",
+      "link": "https://nfsu2.xyz/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "MaxxBench – &quot;Nice DeepSWE score. But is it true?&quot;",
+      "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "link": "https://github.com/hedgerow-dev/coldframe",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Commodore PET – The Worlds First Personal Computer",
+      "link": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Turning every radio into a radar",
+      "link": "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "link": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Study solved a 150-year-old mystery into the identity of the extinct giant crane",
+      "link": "https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/vercel-labs/agent-browser",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/google/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/meta/astryx",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/prometheus/prometheus",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/sherlock-project/sherlock",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/milind-soni/OpenMausBot",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/astral-sh/ruff",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/tailwindlabs/tailwindcss",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mbillow/localthings",
+      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/mbillow/localthings",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/zed-industries/zed",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/ranxianglei/billion-context",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "dsx-ai-factory/nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/dsx-ai-factory/nvke",
+      "source": "GitHub Trending"
+    }
+  ]
+}
