@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-09",
+  "news": [
+    {
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "link": "https://ketchup3d.github.io/app/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Unlocking any car from X brand in most of the world",
+      "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Chimera Vocal Synth",
+      "link": "https://chimera-vocal-synth.vercel.app/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "link": "https://duxlabs.dev/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Declarative Dragging",
+      "link": "https://declarative-dragging.github.io/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "link": "https://news.ycombinator.com/item?id=50417407",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Herb Sutter: When a language&#x27;s creator and its owners strongly disagree [pdf]",
+      "link": "https://isocpp.org/files/papers/P4454R0.pdf",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "link": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "RIP, Harvest",
+      "link": "https://aphyr.com/posts/427-rip-harvest",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "link": "https://github.com/synchopate/llama-modchip",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Taco: The Tensor Algebra Compiler",
+      "link": "http://tensor-compiler.org/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
+      "link": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Writing as a thinking tool",
+      "link": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/sherlock-project/sherlock",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "dsx-ai-factory/nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/dsx-ai-factory/nvke",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/milind-soni/OpenMausBot",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/claude-quickstarts",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/vercel-labs/agent-browser",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/meta/astryx",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/google-deepmind/mujoco",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/ranxianglei/billion-context",
+      "source": "GitHub Trending"
+    }
+  ]
+}
