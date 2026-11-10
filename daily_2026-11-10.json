@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-10",
+  "news": [
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "link": "https://postalpro.usps.com/zcb",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Payments Canada announces launch of Canada&#x27;s Real-Time Rail (RTR) payment system",
+      "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
+      "link": "https://e-means.github.io/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "How Many People Work from Home?",
+      "link": "https://nicholasdecker.substack.com/p/how-many-people-work-from-home",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "link": "https://www.foldableflight.com",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Horible public key tricks",
+      "link": "https://maurycyz.com/projects/badcert/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Locating the source of a mysterious beep",
+      "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Exact – a new cross platform UI framework",
+      "link": "https://github.com/expo/exact",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+      "link": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
+      "link": "https://www.infineon.com/press-release/2026/infpr202611-028",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A primer on GPUs and kernel optimization",
+      "link": "https://www.nabo.dev/blogs/kernel-primer",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Formalizing CPython",
+      "link": "https://broyojo.com/python-formalization/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Never Gonna Print You Up",
+      "link": "https://dixken.de/blog/never-gonna-print-you-up",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/meta/astryx",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/sherlock-project/sherlock",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/google-deepmind/mujoco",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/claude-quickstarts",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "garrytan/gbrain",
+      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/garrytan/gbrain",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/vercel-labs/agent-browser",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/ruvnet/RuView",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/homeassistant-ai/ha-mcp",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/milind-soni/OpenMausBot",
+      "source": "GitHub Trending"
+    }
+  ]
+}
