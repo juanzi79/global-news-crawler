@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-11",
+  "news": [
+    {
+      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A great old-timey game-programming hack (2013)",
+      "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": ".name Grandfathered",
+      "link": "https://neil.fraser.name/news/2026/11/10/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Smart home devices should work without the internet",
+      "link": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Six Math Essentials by Terence Tao",
+      "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Starlink Mini 2",
+      "link": "https://starlink.com/mini-2",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "link": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Hacking the Meta Ray-Ban smartglasses",
+      "link": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Val Town is winding down",
+      "link": "https://blog.val.town/winding-down",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AlphaProof Code",
+      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "link": "https://github.com/GoogleChrome/modern-web-guidance",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "LLMs Play Zachtronics&#x27; TIS-100",
+      "link": "https://tis-100.wincon.dev/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Pinot Noir: inside the criminal gangs making fake wine",
+      "link": "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Hooked on Tuna",
+      "link": "https://blue-continuum.com/hooked-on-tuna",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/meta/astryx",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/anthropics/claude-quickstarts",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/google-deepmind/mujoco",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "stars": "0",
+      "link": "https://github.com/we-promise/sure",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/homeassistant-ai/ha-mcp",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/vercel-labs/agent-browser",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/sherlock-project/sherlock",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "tokio-rs/topcoat",
+      "description": "A batteries-included framework for building web apps",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/tokio-rs/topcoat",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/ranxianglei/billion-context",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending"
+    }
+  ]
+}
