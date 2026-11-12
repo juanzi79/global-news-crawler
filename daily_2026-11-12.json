@@ -1,0 +1,177 @@
+{
+  "date": "2026-11-12",
+  "news": [
+    {
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "link": "https://www.mcmillen.dev/sigbovik/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Tim Peters has died",
+      "link": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "AWS emulator",
+      "link": "https://github.com/aws/aws-emulator",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Lock Your GitHub Actions",
+      "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A false smoke alarm almost drowned Jane Street&#x27;s only NYC datacenter",
+      "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Did Life Begin in an RNA World?",
+      "link": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Gemini Decisions API",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+      "link": "https://github.com/tylertms/Stela",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Emacs in the Age of Magic",
+      "link": "https://commandlinesystems.com/magic.txt",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "The Utah Teapot",
+      "link": "https://graphics.cs.utah.edu/teapot/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Lean Grimoire",
+      "link": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Stingray Fish Laser",
+      "link": "https://www.stingray.no/en/technology/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/meta/astryx",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "shadcn/improve",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/shadcn/improve",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "stars": "0",
+      "link": "https://github.com/vercel-labs/agent-browser",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "we-promise/sure",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/we-promise/sure",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "homeassistant-ai/ha-mcp",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: <a href=\"https://www.npmjs.com/package/@openai/codex-security\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://www.npmjs.com/package/@openai/codex-security</a>",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/homeassistant-ai/ha-mcp",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "openai/codex-security",
+      "description": "All Algorithms implemented in Java",
+      "language": "Java",
+      "stars": "0",
+      "link": "https://github.com/openai/codex-security",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "TheAlgorithms/Java",
+      "description": "N/A",
+      "language": "N/A",
+      "stars": "0",
+      "link": "https://github.com/TheAlgorithms/Java",
+      "source": "GitHub Trending"
+    }
+  ]
+}
