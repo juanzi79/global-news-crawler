@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-14",
+  "news": [
+    {
+      "title": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
+      "link": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Ggml v1.0.0",
+      "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "FAA lifted National Ground Stop at 0119Z",
+      "link": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&amp;advn=5",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "FAA issues national ground stop",
+      "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Terminal borders that don&#x27;t cost a cell",
+      "link": "https://www.joshka.net/cell-borders/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "What Happened to 3Com?",
+      "link": "https://dfarq.homeip.net/what-happened-to-3com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "link": "https://orcasairband.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Ukraine knocks out 36% of Russia&#x27;s oil refining capacity in under two weeks",
+      "link": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Live map of U.S. flights during tonight&#x27;s FAA nationwide ground stop",
+      "link": "https://grounds.top/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "link": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Found: A protein that drives ageing without unleashing inflammation",
+      "link": "https://www.nature.com/articles/d41586-026-03638-3",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "After 600 experiments, here&#x27;s what I discovered about JEPA world models",
+      "link": "https://haddyalchaer.com/jepa",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "link": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "openai/codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: <a href=\"https://www.npmjs.com/package/@openai/codex-security\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://www.npmjs.com/package/@openai/codex-security</a>",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/openai/codex-security",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "stars": "0",
+      "link": "https://github.com/we-promise/sure",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/backnotprop/plannotator",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "louislam/uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
+      "language": "JavaScript",
+      "stars": "0",
+      "link": "https://github.com/louislam/uptime-kuma",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": "0",
+      "link": "https://github.com/block/buzz",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/tradermonty/claude-trading-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "tailscale/tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "language": "Go",
+      "stars": "0",
+      "link": "https://github.com/tailscale/tailcat",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Likely7/Veyra-NRVideo",
+      "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/Likely7/Veyra-NRVideo",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "source": "GitHub Trending"
+    }
+  ]
+}
