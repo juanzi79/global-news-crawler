@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-25",
+  "news": [
+    {
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "link": "https://buttons.joshwcomeau.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+      "link": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "I&#x27;ve been drinking wine in my kitchen",
+      "link": "https://scottaaronson.blog/?p=10362",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "link": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Ternary Bonsai 2.5 27B",
+      "link": "https://prismml.com/news/bonsai-2-5-27b",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Treasury CIO is too busy vibecoding instead of doing his job #147",
+      "link": "https://github.com/samcorcos/legatum/issues/147",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: U.S. Interstate Weather",
+      "link": "https://www.interstateweather.com/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "link": "https://gpu-demo-gallery.pages.dev/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Bypassing iOS Safari&#x27;s 60 FPS Limit to Build Web Applications That Feel Native",
+      "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Lua for Data Representation",
+      "link": "https://citrons.xyz/journal/2025-07-23",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+      "link": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+      "source": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "title": "Invisible Wave Hits California, Oregon and Canada as Towns Evacuate",
+      "link": "https://www.abovethenormnews.com/2026/11/24/king-tides-california/",
+      "source": "Hacker News",
+      "category": "Tech"
+    }
+  ],
+  "github_projects": [
+    {
+      "name": "elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/elementalsouls/Claude-BugHunter",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: <a href=\"https://clianything.cc/\" class=\"Link--inTextBlock\" rel=\"nofollow\">https://clianything.cc/</a>",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/HKUDS/CLI-Anything",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/jingyaogong/minimind",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/cursor/plugins",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "stars": "0",
+      "link": "https://github.com/nginx/nginx",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "language": "C++",
+      "stars": "0",
+      "link": "https://github.com/openvinotoolkit/openvino",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": "0",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/google-labs-code/stitch-skills",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "mjmirza/app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "language": "Shell",
+      "stars": "0",
+      "link": "https://github.com/mjmirza/app-store-compliance",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "Tracer-Cloud/opensre",
+      "description": "The open-source agent for CI/CD reliability.",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/Tracer-Cloud/opensre",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "toeverything/AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "language": "TypeScript",
+      "stars": "0",
+      "link": "https://github.com/toeverything/AFFiNE",
+      "source": "GitHub Trending"
+    },
+    {
+      "name": "XiaoYouChR/Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "language": "Python",
+      "stars": "0",
+      "link": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "source": "GitHub Trending"
+    }
+  ]
+}
